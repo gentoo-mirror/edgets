@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm unpack
+DESCRIPTION=The best email app for people and teams at work
+EAPI=7
+HOMEPAGE=https://getmailspring.com
+IUSE=+libnotify
+KEYWORDS=~amd64
+LICENSE=GPLv3
+RDEPEND=app-crypt/libsecret dev-vcs/git dev-libs/libgcrypt dev-libs/nss dev-libs/openssl gnome-base/gconf gnome-base/gnome-keyring gnome-base/gvfs virtual/libudev libnotify? ( x11-libs/libnotify ) x11-libs/libXtst x11-misc/xdg-utils
+SLOT=0
+SRC_URI=https://github.com/Foundry376/Mailspring/releases/download/1.7.4/mailspring-1.7.4-amd64.deb -> mailspring-bin-1.7.4.deb
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	unpacker	3cd8bad0d31e525cd26be1bfa4e61631	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=72c7b8609dae99335651569303621d04
