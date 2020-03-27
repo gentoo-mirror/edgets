@@ -1,7 +1,7 @@
+app-misc/temps-bin 0.7.4: A simple but smart weather app
 app-text/simplenote-bin 1.15.1: The simplest way to keep notes
 mail-client/mailspring-bin 1.7.4: The best email app for people and teams at work
 media-sound/kaku-bin 2.0.2: The next generation music client
 media-sound/museeks-bin 0.11.4: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js
 net-news/raven-reader-bin 0.6.6: All your articles in one place. Beautiful.
 www-client/min-bin 1.13.2: Min is a fast, minimal browser that protects your privacy
-x11-misc/temps-bin 0.7.4: A simple but smart weather app
