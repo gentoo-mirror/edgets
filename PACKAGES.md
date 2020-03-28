@@ -1,6 +1,6 @@
 # Featured packages
 
-Below are the packages that can be installed from edgets overlay and that are worth mentioning.
+Below are the packages that can be installed from edgets Gentoo overlay and that are worth mentioning.
 
 For installation instructions, go to [README.md](https://github.com/BlueManCZ/edgets/blob/master/README.md)
 
@@ -78,3 +78,11 @@ Homepage: https://github.com/jackd248/temps<br>
 Used fork: https://github.com/musicpro/temps
 
 __A simple but smart weather app.__
+
+---
+
+### :bar_chart: GanttProject ([app-office/ganttproject-bin](https://github.com/BlueManCZ/edgets/tree/master/app-office/ganttproject-bin))
+
+Homepage: https://www.ganttproject.biz
+
+__Free project scheduling and management app.__
