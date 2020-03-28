@@ -1,6 +1,7 @@
 app-crypt/buttercup-desktop-bin 1.19.0: Cross-platform, free and open-source password manager based on NodeJS.
 app-misc/gsubs-bin 1.0.1: A desktop app that finds you the perfect subtitle match for your videos
 app-misc/temps-bin 0.7.4: A simple but smart weather app
+app-office/ganttproject-bin 2.8.10: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-text/simplenote-bin 1.15.1: The simplest way to keep notes
 mail-client/mailspring-bin 1.7.4: The best email app for people and teams at work
 media-sound/kaku-bin 2.0.2: The next generation music client
