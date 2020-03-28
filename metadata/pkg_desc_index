@@ -5,4 +5,5 @@ mail-client/mailspring-bin 1.7.4: The best email app for people and teams at wor
 media-sound/kaku-bin 2.0.2: The next generation music client
 media-sound/museeks-bin 0.11.4: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js
 net-news/raven-reader-bin 0.6.6: All your articles in one place. Beautiful.
+net-p2p/webtorrent-desktop-bin 0.21.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 www-client/min-bin 1.13.2: Min is a fast, minimal browser that protects your privacy

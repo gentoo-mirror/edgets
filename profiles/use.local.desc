@@ -6,4 +6,5 @@ app-misc/gsubs-bin:xtest - Enable support for x11-libs/libXtst
 media-sound/kaku-bin:appindicator - Enable usage of x11-libs/libXtst
 media-sound/kaku-bin:xtest - Enable usage of dev-libs/libappindicator
 net-news/raven-reader-bin:xtest - Enable support for x11-libs/libXtst
+net-p2p/webtorrent-desktop-bin:xtest - Enable support for x11-libs/libXtst
 www-client/min-bin:xtest - Enable support for x11-libs/libXtst
