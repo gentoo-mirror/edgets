@@ -31,7 +31,7 @@ __Min is a fast, minimal browser that protects your privacy.__
 
 ---
 
-### :tv: WebTorrent Desktop ([www-client/min-bin](https://github.com/BlueManCZ/edgets/tree/master/net-p2p/webtorrent-desktop-bin))
+### :tv: WebTorrent Desktop ([net-p2p/webtorrent-desktop-bin](https://github.com/BlueManCZ/edgets/tree/master/net-p2p/webtorrent-desktop-bin))
 
 Homepage: https://github.com/webtorrent/webtorrent-desktop
 
@@ -53,6 +53,14 @@ Homepage: https://github.com/EragonJ/Kaku
 
 __Kaku is a highly integrated music player. Supports different<br>
 online platforms like YouTube, SoundCloud, Vimeo and more.__
+
+---
+
+### :closed_lock_with_key: Buttercup ([app-crypt/buttercup-desktop-bin](https://github.com/BlueManCZ/edgets/tree/master/app-crypt/buttercup-desktop-bin))
+
+Homepage: https://github.com/buttercup/buttercup-desktop
+
+__Cross-platform, free and open-source password manager based on NodeJS.__
 
 ---
 
