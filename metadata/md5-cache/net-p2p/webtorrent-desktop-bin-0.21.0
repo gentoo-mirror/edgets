@@ -9,4 +9,4 @@ RDEPEND=app-accessibility/at-spi2-core dev-libs/nss gnome-keyring? ( gnome-base/
 SLOT=0
 SRC_URI=https://github.com/webtorrent/webtorrent-desktop/releases/download/v0.21.0/webtorrent-desktop_0.21.0_amd64.deb -> webtorrent-desktop-bin-0.21.0.deb
 _eclasses_=desktop	3b1f1d9a6b749c9ce2d5182877265b23	unpacker	3cd8bad0d31e525cd26be1bfa4e61631	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=617d16004721d89641e6201ed680b6b3
+_md5_=10c8af81c60d9a68ee6f27c37df280c2
