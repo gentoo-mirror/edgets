@@ -10,3 +10,4 @@ media-sound/museeks-bin 0.11.4: A simple, clean and cross-platform music player,
 net-news/raven-reader-bin 0.6.6: All your articles in one place. Beautiful.
 net-p2p/webtorrent-desktop-bin 0.21.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 www-client/min-bin 1.13.2: Min is a fast, minimal browser that protects your privacy
+x11-themes/breeze-hacked-cursor-theme 1.0-r3: Breeze cursor theme with hacked style
