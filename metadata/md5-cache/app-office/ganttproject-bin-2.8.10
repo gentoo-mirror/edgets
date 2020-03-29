@@ -8,4 +8,4 @@ RDEPEND=|| ( virtual/jre virtual/jdk )
 SLOT=0
 SRC_URI=https://www.ganttproject.biz/dl/2.8.10/lin -> ganttproject-bin-2.8.10.deb
 _eclasses_=desktop	3b1f1d9a6b749c9ce2d5182877265b23	unpacker	3cd8bad0d31e525cd26be1bfa4e61631	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=324038f920d4f4743e4112ccf74d4d0d
+_md5_=e95976ba96b82e1e7525fee04b45f9e7
