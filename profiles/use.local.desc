@@ -4,6 +4,7 @@
 
 app-crypt/buttercup-desktop-bin:xtest - Enable support for x11-libs/libXtst
 app-misc/gsubs-bin:xtest - Enable support for x11-libs/libXtst
+games-action/ftb-launcher:numix-circle-icon - Install icon that fits numix-circle icon theme
 media-sound/kaku-bin:appindicator - Enable usage of x11-libs/libXtst
 media-sound/kaku-bin:xtest - Enable usage of dev-libs/libappindicator
 net-news/raven-reader-bin:xtest - Enable support for x11-libs/libXtst
