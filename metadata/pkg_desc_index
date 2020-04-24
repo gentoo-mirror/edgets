@@ -5,7 +5,7 @@ app-office/ganttproject-bin 2.8.10: A tool for creating a project schedule by me
 app-text/simplenote-bin 1.15.1: The simplest way to keep notes
 dev-db/rel 3.014: Rel is a database management system that implements Tutorial D.
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
-mail-client/mailspring-bin 1.7.4 1.7.5: The best email app for people and teams at work
+mail-client/mailspring-bin 1.7.5 1.7.6: The best email app for people and teams at work
 media-sound/kaku-bin 2.0.2: The next generation music client
 media-sound/museeks-bin 0.11.4: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js
 net-news/raven-reader-bin 0.6.6: All your articles in one place. Beautiful.
