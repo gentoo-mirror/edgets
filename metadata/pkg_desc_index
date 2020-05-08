@@ -1,7 +1,7 @@
 app-crypt/buttercup-desktop-bin 1.19.0: Cross-platform, free and open-source password manager based on NodeJS.
 app-misc/gsubs-bin 1.0.1: A desktop app that finds you the perfect subtitle match for your videos
 app-misc/temps-bin 0.7.4: A simple but smart weather app
-app-office/ganttproject-bin 2.8.10: A tool for creating a project schedule by means of Gantt chart and resource load chart
+app-office/ganttproject-bin 2.8.10 2.8.11: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-text/simplenote-bin 1.15.1 1.16.0: The simplest way to keep notes
 dev-db/rel 3.014: Rel is a database management system that implements Tutorial D.
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
