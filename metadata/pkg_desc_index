@@ -13,7 +13,7 @@ sci-geosciences/google-earth-bin 7.3.2: Explore, search and discover the planet.
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
 www-apps/wordpress-desktop-bin 5.0.1 5.1.0: WordPress.com Desktop Client
-www-client/min-bin 1.13.2 1.14.0: Min is a fast, minimal browser that protects your privacy
+www-client/min-bin 1.14.0 1.14.1: Min is a fast, minimal browser that protects your privacy
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
 x11-misc/gsubs-bin 1.0.1: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/temps-bin 0.7.4: A simple but smart weather app
