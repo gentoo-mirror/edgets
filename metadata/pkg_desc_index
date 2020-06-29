@@ -1,6 +1,6 @@
 app-crypt/buttercup-desktop-bin 1.19.0: Cross-platform, free and open-source password manager based on NodeJS.
 app-office/ganttproject-bin 2.8.10 2.8.11: A tool for creating a project schedule by means of Gantt chart and resource load chart
-app-text/simplenote-bin 1.16.0 1.18.0: The simplest way to keep notes
+app-text/simplenote-bin 1.16.0 1.18.0 1.19.0: The simplest way to keep notes
 dev-db/rel 3.014: Rel is a database management system that implements Tutorial D.
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 mail-client/mailspring-bin 1.7.7 1.7.8: The best email app for people and teams at work
@@ -12,7 +12,7 @@ sci-geosciences/aweather 0.8.1: A weather monitoring program
 sci-geosciences/google-earth-bin 7.3.2: Explore, search and discover the planet.
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
-www-apps/wordpress-desktop-bin 5.1.1 5.2.0: WordPress.com Desktop Client
+www-apps/wordpress-desktop-bin 5.1.1 5.2.0 6.0.0: WordPress.com Desktop Client
 www-client/min-bin 1.14.1 1.15.0: Min is a fast, minimal browser that protects your privacy
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
 x11-misc/gsubs-bin 1.0.1: A desktop app that finds you the perfect subtitle match for your videos
