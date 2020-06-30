@@ -19,3 +19,5 @@ x11-misc/gsubs-bin 1.0.1: A desktop app that finds you the perfect subtitle matc
 x11-misc/nyrna-bin 1.0: Simple program to pause games & applications
 x11-misc/temps-bin 0.7.4: A simple but smart weather app
 x11-themes/breeze-hacked-cursor-theme 1.0-r3: Breeze cursor theme with hacked style
+x11-themes/numix-icon-theme 9999: Icon theme from the numix project.
+x11-themes/suru-plus 30.0: A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme

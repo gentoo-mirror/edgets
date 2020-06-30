@@ -1,0 +1,9 @@
+DEFINED_PHASES=-
+DESCRIPTION=A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
+EAPI=7
+HOMEPAGE=https://github.com/gusbemacbe/suru-plus/
+KEYWORDS=~amd64 ~arm ~arm64 ~ppc64 ~x86
+LICENSE=GPLv3
+SLOT=0
+SRC_URI=https://github.com/gusbemacbe/suru-plus/archive/v30.0.tar.gz -> suru-plus-30.0.tar.gz
+_md5_=9c87f8806ce9c6db6ab6c3b70db20d51
