@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm unpack
+DEPEND=gnome-base/gconf
+DESCRIPTION=The simplest way to keep notes
+EAPI=7
+HOMEPAGE=https://simplenote.com
+KEYWORDS=~amd64 ~arm64 ~x86
+LICENSE=GPLv2
+RDEPEND=gnome-base/gconf
+SLOT=0
+SRC_URI=amd64? ( https://github.com/Automattic/simplenote-electron/releases/download/v1.20.0/Simplenote-linux-1.20.0-amd64.deb -> simplenote-bin-1.20.0-amd64.deb ) arm64? ( https://github.com/Automattic/simplenote-electron/releases/download/v1.20.0/Simplenote-linux-1.20.0-arm64.deb -> simplenote-bin-1.20.0-arm64.deb ) x86? ( https://github.com/Automattic/simplenote-electron/releases/download/v1.20.0/Simplenote-linux-1.20.0-i386.deb -> simplenote-bin-1.20.0-i386.deb )
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	8ee8c1a2f31437d1766aac890d07a7f4	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=0ab8ed0d66a58510737a048029eee955
