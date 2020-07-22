@@ -4,6 +4,7 @@ app-text/simplenote-bin 1.19.0 1.20.0: The simplest way to keep notes
 dev-db/rel 3.014: Rel is a database management system that implements Tutorial D.
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 mail-client/mailspring-bin 1.7.7 1.7.8: The best email app for people and teams at work
+media-gfx/laigter 1.10 9999: Automatic normal map generator for sprites!
 media-sound/kaku-bin 2.0.2: The next generation music client
 media-sound/museeks-bin 0.11.4: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js
 net-news/raven-reader-bin 0.6.6: All your articles in one place. Beautiful.
