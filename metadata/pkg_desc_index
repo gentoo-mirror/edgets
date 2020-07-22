@@ -14,7 +14,7 @@ sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
 www-apps/wordpress-desktop-bin 5.1.1 5.2.0 6.0.0: WordPress.com Desktop Client
 www-client/min-bin 1.14.1 1.15.0: Min is a fast, minimal browser that protects your privacy
-x11-apps/jstest-gtk 0.1.0-r2: Joystick testing and configuration tool
+x11-apps/jstest-gtk 0.1.0-r2 9999-r1: Joystick testing and configuration tool
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
 x11-misc/gsubs-bin 1.0.1 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/nyrna-bin 1.1 1.1.1: Simple program to pause games & applications
