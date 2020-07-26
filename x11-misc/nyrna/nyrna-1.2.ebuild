@@ -5,8 +5,6 @@
 
 EAPI=7
 
-UP_PN="${PN^}"
-
 DESCRIPTION="Simple program to pause games & applications"
 HOMEPAGE="https://github.com/Merrit/nyrna"
 
@@ -15,8 +13,8 @@ GOLANG_PKG_USE_CGO=1
 
 GOLANG_PKG_DEPENDENCIES=(
   "github.com/adrg/xdg:fb8a0a2"
-	"github.com/BurntSushi/xgb:20f126e"
-	"github.com/BurntSushi/xgbutil:ad855c7"
+  "github.com/BurntSushi/xgb:20f126e"
+  "github.com/BurntSushi/xgbutil:ad855c7"
   "github.com/fsnotify/fsnotify:7f4cf4d"
   "github.com/gen2brain/beeep:e9c15c2"
   "github.com/getlantern/context:c447772"
@@ -54,7 +52,7 @@ GOLANG_PKG_DEPENDENCIES=(
   "github.com/vcaesar/tt:f4f588f"
 )
 
-inherit desktop golang-single xdg-utils
+inherit golang-single xdg-utils
 
 LICENSE="GPLv3"
 SLOT="0"
@@ -62,22 +60,23 @@ IUSE="appindicator"
 KEYWORDS="~amd64 ~arm ~arm64 ~ppc ~ppc64 ~x86"
 
 RDEPEND="appindicator? ( dev-libs/libappindicator )
-	gnome-extra/zenity
-	x11-libs/gtk+
+  gnome-extra/zenity
+  x11-libs/gtk+
   !x11-misc/nyrna-bin"
 
 src_install() {
   debug-print-function ${FUNCNAME} "$@"
 
-	golang-common_src_install
+  golang-common_src_install
 
-  doicon "packaging/PKGBUILD/nyrna.png"
+  insinto "/usr/share/pixmaps"
+  doins "packaging/PKGBUILD/nyrna.png"
 
   insinto "/usr/share/applications"
   doins "packaging/PKGBUILD/nyrna.desktop"
 }
 
 pkg_postinst() {
-	xdg_desktop_database_update
-	xdg_icon_cache_update
+  xdg_desktop_database_update
+  xdg_icon_cache_update
 }
