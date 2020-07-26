@@ -7,6 +7,7 @@ mail-client/mailspring-bin 1.7.7 1.7.8: The best email app for people and teams 
 media-gfx/laigter 1.10 1.10.1 9999: Automatic normal map generator for sprites!
 media-sound/kaku-bin 2.0.2: The next generation music client
 media-sound/museeks-bin 0.11.4: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js
+net-im/viber-bin 13.3.1: Free calls, text and picture sharing with anyone, anywhere!
 net-news/raven-reader-bin 0.6.6: All your articles in one place. Beautiful.
 net-p2p/webtorrent-desktop-bin 0.21.0 0.23.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 sci-geosciences/aweather 0.8.1: A weather monitoring program
