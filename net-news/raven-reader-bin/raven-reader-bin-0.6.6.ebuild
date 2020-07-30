@@ -29,11 +29,7 @@ RDEPEND="dev-libs/libappindicator
 S="${WORKDIR}"
 ARCHIVE_ROOT="squashfs-root"
 
-QA_PREBUILT="/opt/${MY_PN}/*.so
-	/opt/${MY_PN}/swiftshader/*.so
-	/opt/${MY_PN}/raven-reader
-	/opt/${MY_PN}/AppRun
-	/opt/${MY_PN}/chrome-sandbox"
+QA_PREBUILT="*"
 
 src_unpack() {
 	cp "${DISTDIR}/${P}".AppImage "${P}".AppImage
@@ -52,7 +48,7 @@ src_install() {
 	doexe raven-reader AppRun chrome-sandbox *.so
 
 	exeinto /opt/${MY_PN}/swiftshader
-	swiftshader/*.so
+	doexe swiftshader/*.so
 
 	dosym /opt/${MY_PN}/${MY_PN} /usr/bin/${MY_PN}
 	dosym /opt/${MY_PN}/ /usr/share/${MY_PN}
@@ -63,11 +59,6 @@ src_install() {
 }
 
 pkg_postinst() {
-	xdg_desktop_database_update
-	xdg_icon_cache_update
-}
-
-pkg_postrm() {
 	xdg_desktop_database_update
 	xdg_icon_cache_update
 }
