@@ -1,0 +1,9 @@
+DEFINED_PHASES=compile install
+DESCRIPTION=Pretty simple Gnome shell theme inspired by material design
+EAPI=7
+HOMEPAGE=https://github.com/daniruiz/flat-remix
+KEYWORDS=~amd64 ~arm ~arm64 ~ppc64 ~x86
+LICENSE=CC-BY-SA-4.0
+SLOT=0
+SRC_URI=https://github.com/daniruiz/flat-remix-gnome/archive/20200617.tar.gz -> flat-remix-gnome-20200617.tar.gz
+_md5_=78c81f6feee1b755a7c3e22341a28e9d
