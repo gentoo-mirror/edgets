@@ -11,35 +11,38 @@ UP_PN="${MY_PN^}"
 
 DESCRIPTION="The simplest way to keep notes"
 HOMEPAGE="https://simplenote.com"
-SRC_URI="amd64? ( https://github.com/Automattic/simplenote-electron/releases/download/v${PV}/${UP_PN}-linux-${PV}-amd64.deb -> ${P}-amd64.deb )
-				arm64? ( https://github.com/Automattic/simplenote-electron/releases/download/v${PV}/${UP_PN}-linux-${PV}-arm64.deb -> ${P}-arm64.deb )
-				x86? ( https://github.com/Automattic/simplenote-electron/releases/download/v${PV}/${UP_PN}-linux-${PV}-i386.deb -> ${P}-i386.deb )"
+GITHUB="https://github.com/Automattic/simplenote-electron"
+SRC_URI="amd64? ( ${GITHUB}/releases/download/v${PV}/${UP_PN}-linux-${PV}-amd64.deb -> ${P}-amd64.deb )
+				arm64? ( ${GITHUB}/releases/download/v${PV}/${UP_PN}-linux-${PV}-arm64.deb -> ${P}-arm64.deb )
+				x86? ( ${GITHUB}/releases/download/v${PV}/${UP_PN}-linux-${PV}-i386.deb -> ${P}-i386.deb )"
 
 LICENSE="GPLv2"
 SLOT="0"
 KEYWORDS="~amd64 ~arm64 ~x86"
-IUSE=""
 
-DEPEND="gnome-base/gconf"
-RDEPEND="${DEPEND}"
-BDEPEND=""
+RDEPEND="gnome-base/gconf
+	media-libs/libglvnd
+	media-libs/vulkan-loader
+	media-video/ffmpeg"
 
 S="${WORKDIR}"
 
-QA_PREBUILT="/opt/${MY_PN}/*.so
-	/opt/${MY_PN}/swiftshader/*.so
-	/opt/${MY_PN}/simplenote
-	/opt/${MY_PN}/chrome-sandbox"
+QA_PREBUILT="*"
+
+src_prepare() {
+	rm "opt/${UP_PN}/"*".so"
+	rm -r "opt/${UP_PN}/swiftshader"
+	default
+}
 
 src_install() {
 	insinto /opt/${MY_PN}
 	doins -r opt/${UP_PN}/*
 
 	exeinto /opt/${MY_PN}
-	doexe opt/${UP_PN}/simplenote opt/${UP_PN}/chrome-sandbox opt/${UP_PN}/*.so
+	doexe opt/${UP_PN}/simplenote opt/${UP_PN}/chrome-sandbox
 
-	exeinto /opt/${MY_PN}/swiftshader/
-	doexe opt/${UP_PN}/swiftshader/*.so
+	dosym "/usr/lib64/chromium/libffmpeg.so" "/opt/${MY_PN}/libffmpeg.so"
 
 	dosym /opt/${MY_PN}/${MY_PN} /usr/bin/${MY_PN}
 	dosym /opt/${MY_PN}/ /usr/share/${MY_PN}
@@ -56,5 +59,4 @@ pkg_postinst() {
 
 pkg_postrm() {
 	xdg_desktop_database_update
-	xdg_icon_cache_update
 }
