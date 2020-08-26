@@ -1,11 +1,12 @@
-DEFINED_PHASES=install postinst postrm unpack
+DEFINED_PHASES=install postinst postrm prepare unpack
 DESCRIPTION=A tool for creating a project schedule by means of Gantt chart and resource load chart
 EAPI=7
 HOMEPAGE=https://www.ganttproject.biz
+IUSE=doc
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 RDEPEND=|| ( virtual/jre virtual/jdk )
 SLOT=0
 SRC_URI=https://www.ganttproject.biz/dl/2.8.11/lin -> ganttproject-bin-2.8.11.deb
 _eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	8ee8c1a2f31437d1766aac890d07a7f4	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=c39feee1aedc06b2b30ad93bc1cbf070
+_md5_=e3c9f7002c53d02ccb141fdf8574bcf8
