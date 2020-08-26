@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst postrm
+DEFINED_PHASES=postinst postrm prepare
 DEPEND=net-libs/libsoup net-libs/webkit-gtk !gtk3? ( x11-libs/gtk+:2 ) gtk3? ( x11-libs/gtk+:3 ) virtual/pkgconfig
 DESCRIPTION=A fast, lightweight, vim-like browser based on webkit
 EAPI=7
@@ -10,4 +10,4 @@ RDEPEND=net-libs/libsoup net-libs/webkit-gtk !gtk3? ( x11-libs/gtk+:2 ) gtk3? ( 
 SLOT=0
 SRC_URI=https://github.com/fanglingsu/vimb/archive/3.6.0.tar.gz -> vimb-3.6.0.tar.gz
 _eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=4384af4d9f1bee570bbaff13ac58c64f
+_md5_=53dadd1d53a8b3c0f2d0d370c3940ff5
