@@ -8,5 +8,5 @@ LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=x11-libs/cairo circle? ( !x11-themes/numix-icon-theme-circle ) square? ( !x11-themes/numix-icon-theme-square )
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=6a1f3d218910dbfdfb294141a1e40c91
