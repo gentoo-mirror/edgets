@@ -13,6 +13,7 @@ mail-client/gmail-desktop-bin 2.20.2 2.20.3 2.20.4: Nifty Gmail desktop app
 mail-client/mailspring-bin 1.7.7 1.7.8 1.7.8-r1: The best email app for people and teams at work
 media-gfx/laigter 1.10 1.10.1 1.10.2 9999: Automatic normal map generator for sprites!
 media-sound/kaku-bin 2.0.2: The next generation music client
+media-sound/lyrebird 1.1.0 9999: Simple and powerful voice changer for Linux
 media-sound/museeks-bin 0.11.4: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
 media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0: A Desktop App for YouTube Music
