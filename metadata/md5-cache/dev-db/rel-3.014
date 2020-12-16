@@ -6,5 +6,5 @@ KEYWORDS=~amd64
 LICENSE=Apache-2.0
 SLOT=0
 SRC_URI=https://sourceforge.net/projects/dbappbuilder/files/Rel/Rel%20version%203.014/Rel3.014.linux.tar.gz/download -> rel-3.014.tar.gz https://a.fsdn.com/allura/p/dbappbuilder/icon?1516966776?&w=90 -> rel.png
-_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	8ee8c1a2f31437d1766aac890d07a7f4	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=desktop	8f9bfcc33705104f56748d9dedb3177a	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	8ee8c1a2f31437d1766aac890d07a7f4	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=de0f0f16e897fc9a1670f229d7ad85d6

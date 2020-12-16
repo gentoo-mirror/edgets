@@ -8,5 +8,5 @@ LICENSE=Apache-2.0
 RDEPEND=dev-libs/libgcrypt dev-libs/nss gnome-base/gconf gnome-keyring? ( gnome-base/gnome-keyring ) gnome-base/gvfs libnotify? ( x11-libs/libnotify ) media-libs/alsa-lib media-libs/libglvnd media-libs/vulkan-loader <media-video/ffmpeg-4.3.1[chromium] pulseaudio? ( media-sound/pulseaudio ) sys-apps/lsb-release sys-apps/util-linux sys-fs/eudev sys-libs/libcap sys-libs/glibc x11-libs/gtk+ xscreensaver? ( x11-libs/libXScrnSaver ) xtest? ( x11-libs/libXtst ) x11-misc/xdg-utils
 SLOT=0
 SRC_URI=amd64? ( https://github.com/minbrowser/min/releases/download/v1.16.0/min_1.16.0_amd64.deb -> min-bin-1.16.0-amd64.deb ) arm64? ( https://github.com/minbrowser/min/releases/download/v1.16.0/min_1.16.0_arm64.deb -> min-bin-1.16.0-arm64.deb )
-_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	8ee8c1a2f31437d1766aac890d07a7f4	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=desktop	8f9bfcc33705104f56748d9dedb3177a	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	8ee8c1a2f31437d1766aac890d07a7f4	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=6d08df94e2f1ac59282d107360141210
