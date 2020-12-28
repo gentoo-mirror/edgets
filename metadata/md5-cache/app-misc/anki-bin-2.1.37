@@ -8,5 +8,5 @@ LICENSE=AGPL-3+ BSD MIT GPL-3+ CC-BY-SA-3.0 Apache-2.0 CC-BY-2.5
 RDEPEND=!app-misc/anki sys-apps/systemd
 SLOT=0
 SRC_URI=https://github.com/ankitects/anki/releases/download/2.1.37/anki-2.1.37-linux.tar.bz2 -> anki-bin-2.1.37.tar.bz2
-_eclasses_=desktop	8f9bfcc33705104f56748d9dedb3177a	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	45b49db67094fdafbb6a16a2299e894b	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb	unpacker	45b49db67094fdafbb6a16a2299e894b	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=af1e42c354689a896dee5366be46aa1c
