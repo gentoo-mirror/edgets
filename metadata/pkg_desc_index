@@ -31,7 +31,7 @@ www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
 x11-apps/jstest-gtk 0.1.0-r2 9999-r1: Joystick testing and configuration tool
 x11-misc/albert 0.17.0 9999: A fast and flexible keyboard launcher
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
-x11-misc/gitify-bin 3.1.0 3.1.3 4.0.0: GitHub Notifications on your menu bar
+x11-misc/gitify-bin 3.1.0 3.1.3 4.0.0 4.1.0: GitHub Notifications on your menu bar
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/nyrna 1.2 1.3: Simple program to pause games & applications
 x11-misc/nyrna-bin 1.2: Simple program to pause games & applications
