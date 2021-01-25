@@ -5,7 +5,7 @@ app-misc/sif 9999: Fix runtime icons of Steam games
 app-misc/sportstracker 7.7.0: Application for people who want to record and analyze their sporting activities
 app-office/ganttproject-bin 2.8.10 2.8.11: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-office/nozbe-bin 3.13.0: To-do, task, project and time management application.
-app-text/simplenote-bin 1.20.0 1.21.0 1.21.1 2.0.0 2.1.0 2.2.0 2.3.0 2.4.0: The simplest way to keep notes
+app-text/simplenote-bin 1.20.0 1.21.0 1.21.1 2.0.0 2.1.0 2.2.0 2.3.0 2.4.0 2.5.0: The simplest way to keep notes
 dev-db/rel 3.014: Rel is a database management system that implements Tutorial D.
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
@@ -31,7 +31,7 @@ www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
 x11-apps/jstest-gtk 0.1.0-r2 9999-r1: Joystick testing and configuration tool
 x11-misc/albert 9999: A fast and flexible keyboard launcher
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
-x11-misc/gitify-bin 3.1.0 3.1.3 4.0.0 4.1.0: GitHub Notifications on your menu bar
+x11-misc/gitify-bin 3.1.0 3.1.3 4.0.0 4.1.0 4.2.0: GitHub Notifications on your menu bar
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/nyrna 1.2 1.3: Simple program to pause games & applications
 x11-misc/nyrna-bin 1.2: Simple program to pause games & applications
