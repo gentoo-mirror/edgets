@@ -4,8 +4,10 @@
 
 app-crypt/buttercup-desktop-bin:xtest - Enable support for x11-libs/libXtst
 games-action/ftb-launcher:numix-circle-icon - Install icon that fits numix-circle icon theme
-media-sound/kaku-bin:appindicator - Enable usage of x11-libs/libXtst
-media-sound/kaku-bin:xtest - Enable usage of dev-libs/libappindicator
+media-sound/kaku:doc - Install package documentation
+media-sound/museeks:doc - Install package documentation
+media-sound/museeks:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
+media-sound/museeks:system-mesa - Use the system-wide media-libs/mesa instead of bundled
 net-news/raven-reader-bin:xtest - Enable support for x11-libs/libXtst
 net-p2p/webtorrent-desktop-bin:xtest - Enable support for x11-libs/libXtst
 www-client/min-bin:xtest - Enable support for x11-libs/libXtst
