@@ -1,5 +1,5 @@
 app-crypt/buttercup-desktop-bin 1.20.4 1.20.5: Cross-platform, free and open-source password manager based on NodeJS.
-app-crypt/swifty-bin 0.5.3 0.5.4 0.6.0 0.6.2 0.6.3: Modern, lightweight, fast and free password manager
+app-crypt/swifty 0.6.4: Modern, Lightweight, Fast and Free Password Manager
 app-misc/anki-bin 2.1.37: A spaced-repetition memory training program (flash cards)
 app-misc/sif 9999: Fix runtime icons of Steam games
 app-misc/sportstracker 7.7.0: Application for people who want to record and analyze their sporting activities
