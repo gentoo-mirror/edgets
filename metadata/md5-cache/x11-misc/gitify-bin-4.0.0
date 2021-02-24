@@ -8,5 +8,5 @@ LICENSE=MIT
 RDEPEND=app-accessibility/at-spi2-core app-crypt/libsecret dev-libs/libappindicator dev-libs/nss media-libs/libglvnd media-libs/vulkan-loader media-video/ffmpeg[chromium] sys-apps/util-linux x11-libs/gtk+ libnotify? ( x11-libs/libnotify ) xscreensaver? ( x11-libs/libXScrnSaver ) xtest? ( x11-libs/libXtst ) x11-misc/xdg-utils
 SLOT=0
 SRC_URI=https://github.com/manosim/gitify/releases/download/v4.0.0/gitify_4.0.0_amd64.deb -> gitify-bin-4.0.0.deb
-_eclasses_=desktop	7fd20552ce4cc97e8acb132a499a7dd8	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	45b49db67094fdafbb6a16a2299e894b	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	unpacker	45b49db67094fdafbb6a16a2299e894b	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
 _md5_=737460125355f61105784e54df0532e4
