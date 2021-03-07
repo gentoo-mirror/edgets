@@ -10,7 +10,7 @@ dev-db/rel 3.014-r1: Rel is a database management system that implements Tutoria
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 games-util/oversteer 0.5.5 9999: Steering Wheel Manager for Linux
-mail-client/gmail-desktop-bin 2.20.2 2.20.3 2.20.4: Nifty Gmail desktop app
+mail-client/gmail-desktop 2.21.1: Unofficial Gmail Desktop App
 mail-client/mailspring 1.8.0: The best email app for people and teams at work
 media-gfx/laigter 1.10 1.10.1 1.10.2 1.10.3 1.10.4 1.10.5 9999: Automatic normal map generator for sprites!
 media-sound/kaku 2.0.2: The next generation music client
