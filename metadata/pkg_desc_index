@@ -19,7 +19,7 @@ media-sound/museeks 0.11.5: A simple, clean and cross-platform music player, wri
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
 media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0: A Desktop App for YouTube Music
 net-im/viber-bin 13.3.1: Free calls, text and picture sharing with anyone, anywhere!
-net-news/raven-reader-bin 1.0.45 1.0.46 1.0.47: Simple desktop RSS Reader
+net-news/raven-reader-bin 1.0.45 1.0.46 1.0.47 1.0.48: Simple desktop RSS Reader
 net-p2p/webtorrent-desktop-bin 0.23.0 0.24.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 sci-electronics/eagle 9.6.2: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-geosciences/aweather 0.8.1: A weather monitoring program
