@@ -35,6 +35,7 @@ x11-misc/albert 9999: A fast and flexible keyboard launcher
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
 x11-misc/gitify-bin 3.1.0 3.1.3 4.0.0 4.1.0 4.2.0: GitHub Notifications on your menu bar
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
+x11-misc/hardcode-tray 9999: Fixes harcoded tray icons in Linux
 x11-misc/nyrna 1.2 1.3: Simple program to pause games & applications
 x11-misc/nyrna-bin 1.2 1.3: Simple program to pause games & applications
 x11-misc/plank 0.11.89-r1 9999: Elegant, simple, clean dock
@@ -43,6 +44,7 @@ x11-misc/temps-bin 0.7.4: A simple but smart weather app
 x11-themes/breeze-hacked-cursor-theme 1.0-r3: Breeze cursor theme with hacked style
 x11-themes/flat-remix-gnome 20200617: Pretty simple Gnome shell theme inspired by material design
 x11-themes/lexis 0.1: Gnome Shell theme designed for Enigmo OS 2
+x11-themes/materia-theme 99999999: A Material Design-like flat theme for GTK3, GTK2 and GNOME Shell
 x11-themes/numix-icon-theme 9999: Icon theme from the numix project.
 x11-themes/numix-icon-theme-bevel 1.0: The archived and no longer maintained version of Numix Circle
 x11-themes/suru-plus 30.0: A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme

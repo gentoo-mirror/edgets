@@ -1,0 +1,12 @@
+BDEPEND=dev-lang/sassc media-gfx/inkscape media-gfx/optipng >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=x11-libs/gtk+:2 >=x11-libs/gtk+-3.18:3 x11-themes/gtk-engines-murrine x11-libs/gdk-pixbuf
+DESCRIPTION=A Material Design-like flat theme for GTK3, GTK2 and GNOME Shell
+EAPI=7
+HOMEPAGE=https://github.com/nana-4/materia-theme
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=x11-libs/gtk+:2 >=x11-libs/gtk+-3.18:3 x11-themes/gtk-engines-murrine x11-libs/gdk-pixbuf
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=b20e06673897f625aad1cc5fe35a65f8
