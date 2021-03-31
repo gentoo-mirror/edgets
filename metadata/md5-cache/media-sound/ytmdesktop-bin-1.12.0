@@ -2,6 +2,7 @@ DEFINED_PHASES=install postinst postrm prepare unpack
 DESCRIPTION=A Desktop App for YouTube Music
 EAPI=7
 HOMEPAGE=https://ytmdesktop.app/
+INHERIT=desktop xdg-utils
 IUSE=-libnotify -xscreensaver -hardcode-tray-fix
 KEYWORDS=~amd64
 LICENSE=CC0v1
