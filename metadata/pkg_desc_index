@@ -5,7 +5,7 @@ app-misc/sif 9999: Fix runtime icons of Steam games
 app-misc/sportstracker 7.7.0: Application for people who want to record and analyze their sporting activities
 app-office/ganttproject-bin 2.8.10 2.8.11: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-office/nozbe-bin 3.13.0: To-do, task, project and time management application.
-app-text/simplenote-bin 2.6.0 2.7.0 2.7.1 2.8.0: The simplest way to keep notes
+app-text/simplenote-bin 2.8.0 2.9.0: The simplest way to keep notes
 dev-db/rel 3.014-r1: Rel is a database management system that implements Tutorial D.
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
