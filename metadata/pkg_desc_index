@@ -27,7 +27,7 @@ sci-geosciences/google-earth-bin 7.3.2 7.3.3: Explore, search and discover the p
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
 www-apps/wordpress-desktop-bin 6.0.0 6.0.1 6.0.2: WordPress.com Desktop Client
-www-client/min-bin 1.18.0 1.18.1 1.19.0: Min is a fast, minimal browser that protects your privacy.
+www-client/min-bin 1.18.0 1.18.1 1.19.0 1.19.2: Min is a fast, minimal browser that protects your privacy.
 www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
 x11-apps/jstest-gtk 0.1.0-r2 9999-r1: Joystick testing and configuration tool
 x11-libs/bamf 0.5.5 9999: BAMF Application Matching Framework
