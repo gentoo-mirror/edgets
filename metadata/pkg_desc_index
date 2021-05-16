@@ -12,14 +12,14 @@ games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community
 games-util/oversteer 0.5.5 0.6.0 9999: Steering Wheel Manager for Linux
 mail-client/gmail-desktop 2.25.0 2.25.1 2.25.2 2.25.3: Unofficial Gmail Desktop App
 mail-client/mailspring 1.8.0 1.9.0 1.9.1: The best email app for people and teams at work
-media-gfx/laigter 1.10 1.10.1 1.10.2 1.10.3 1.10.4 1.10.5 9999: Automatic normal map generator for sprites!
+media-gfx/laigter 1.10 1.10.1 1.10.2 1.10.3 1.10.4 1.10.5 1.10.6 9999: Automatic normal map generator for sprites!
 media-sound/kaku 2.0.2: The next generation music client
 media-sound/lyrebird 1.1.0 9999: Simple and powerful voice changer for Linux
 media-sound/museeks 0.11.5: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js.
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
 media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0: A Desktop App for YouTube Music
 net-im/viber-bin 13.3.1: Free calls, text and picture sharing with anyone, anywhere!
-net-news/raven-reader-bin 1.0.51 1.0.52: Simple desktop RSS Reader
+net-news/raven-reader-bin 1.0.51 1.0.52 1.0.54: Simple desktop RSS Reader
 net-p2p/webtorrent-desktop-bin 0.23.0 0.24.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 sci-electronics/eagle 9.6.2-r1: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-geosciences/aweather 0.8.1: A weather monitoring program
