@@ -1,11 +1,11 @@
 app-crypt/buttercup-desktop-bin 1.20.4 1.20.5: Cross-platform, free and open-source password manager based on NodeJS.
-app-crypt/swifty 0.6.4: Modern, Lightweight, Fast and Free Password Manager
+app-crypt/swifty 0.6.4 0.6.5: Modern, Lightweight, Fast and Free Password Manager
 app-misc/anki-bin 2.1.37: A spaced-repetition memory training program (flash cards)
 app-misc/sif 9999: Fix runtime icons of Steam games
 app-misc/sportstracker 7.7.0: Application for people who want to record and analyze their sporting activities
 app-office/ganttproject-bin 2.8.10 2.8.11: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-office/nozbe-bin 3.13.0: To-do, task, project and time management application.
-app-text/simplenote-bin 2.8.0 2.9.0 2.10.0: The simplest way to keep notes
+app-text/simplenote-bin 2.8.0 2.9.0 2.10.0 2.11.0: The simplest way to keep notes
 dev-db/rel 3.014-r1: Rel is a database management system that implements Tutorial D.
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
