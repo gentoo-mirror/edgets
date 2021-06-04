@@ -11,6 +11,7 @@ dev-libs/libarcus 4.9.1: This library facilitates communication between Cura and
 dev-libs/libcharon 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libsavitar 4.9.1: C++ implementation of 3mf loading with SIP python bindings
 dev-python/pynest2d 4.9.1: Python bindings for libnest2d
+dev-python/uranium 4.9.1: A Python framework for building 3D printing related applications
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 games-util/oversteer 0.5.5 0.6.0 9999: Steering Wheel Manager for Linux
