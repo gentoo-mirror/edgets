@@ -7,7 +7,9 @@ app-office/ganttproject-bin 2.8.10 2.8.11: A tool for creating a project schedul
 app-office/nozbe-bin 3.13.0: To-do, task, project and time management application.
 app-text/simplenote-bin 2.8.0 2.9.0 2.10.0 2.11.0: The simplest way to keep notes
 dev-db/rel 3.014-r1: Rel is a database management system that implements Tutorial D.
+dev-libs/libarcus 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libcharon 4.9.1: This library facilitates communication between Cura and its backend
+dev-libs/libsavitar 4.9.1: C++ implementation of 3mf loading with SIP python bindings
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 games-util/oversteer 0.5.5 0.6.0 9999: Steering Wheel Manager for Linux
