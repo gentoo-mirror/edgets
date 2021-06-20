@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=A free, open-source and cross-platform password manager.
+EAPI=7
+HOMEPAGE=https://github.com/buttercup/buttercup-desktop
+INHERIT=desktop xdg
+IUSE=system-ffmpeg system-mesa
+KEYWORDS=-* ~amd64
+LICENSE=GPL-3
+RDEPEND=dev-libs/libappindicator dev-libs/glib gnome-base/gconf sys-apps/dbus x11-libs/libnotify x11-libs/libXScrnSaver x11-libs/libXtst system-ffmpeg? ( <media-video/ffmpeg-4.3[chromium] ) system-mesa? ( media-libs/mesa )
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=https://github.com/buttercup/buttercup-desktop/releases/download/v2.9.0/Buttercup-linux-x64.AppImage -> buttercup-desktop-bin-2.9.0.AppImage
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
+_md5_=96556bc5f6db52e833d2021fc1295925
