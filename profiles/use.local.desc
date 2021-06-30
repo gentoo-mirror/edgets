@@ -37,5 +37,8 @@ x11-misc/plank:benchmark - Enable output of benchmarking data in logs
 x11-misc/plank:dbus - Enable dynamic quicklist support provided over dbusmenu
 x11-misc/plank:debug - Compile with debug code
 x11-misc/plank:doc - Enable documentation generation
+x11-misc/wordpress-com:doc - Install package documentation
+x11-misc/wordpress-com:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
+x11-misc/wordpress-com:system-mesa - Use the system-wide media-libs/mesa instead of bundled
 x11-themes/numix-icon-theme:circle - Build package with Numix-Circle included
 x11-themes/numix-icon-theme:square - Build package with Numix-Square included

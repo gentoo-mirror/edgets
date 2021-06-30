@@ -34,7 +34,6 @@ sci-geosciences/aweather 0.8.1: A weather monitoring program
 sci-geosciences/google-earth-bin 7.3.3: Explore, search and discover the planet.
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
-www-apps/wordpress-desktop-bin 6.0.0 6.0.1 6.0.2: WordPress.com Desktop Client
 www-client/min-bin 1.18.0 1.18.1 1.19.0 1.19.2 1.20.0: Min is a fast, minimal browser that protects your privacy.
 www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
 x11-apps/jstest-gtk 0.1.0-r2 9999-r1: Joystick testing and configuration tool
@@ -50,6 +49,7 @@ x11-misc/plank 0.11.89-r1 9999: Elegant, simple, clean dock
 x11-misc/rescuetime 2.16.5.1: A service that provides the user with the knowledge of how they spend their time while on the computer.
 x11-misc/sportstracker 7.8.0: Application for tracking your sporting activities.
 x11-misc/temps-bin 0.7.4: A simple but smart weather app
+x11-misc/wordpress-com 7.0.5: WordPress.com Desktop Client
 x11-themes/breeze-hacked-cursor-theme 1.0-r3: Breeze cursor theme with hacked style
 x11-themes/flat-remix-gnome 20200617: Pretty simple Gnome shell theme inspired by material design
 x11-themes/lexis 0.1: Gnome Shell theme designed for Enigmo OS 2
