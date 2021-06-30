@@ -1,0 +1,15 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=The next generation music client
+EAPI=7
+HOMEPAGE=https://github.com/EragonJ/Kaku
+INHERIT=unpacker xdg
+IUSE=appindicator doc libnotify system-ffmpeg
+KEYWORDS=-* ~amd64 ~x86
+LICENSE=MIT
+RDEPEND=dev-libs/nss gnome-base/gconf:2 x11-libs/libXScrnSaver x11-libs/libXtst appindicator? ( dev-libs/libappindicator ) libnotify? ( x11-libs/libnotify ) system-ffmpeg? ( media-video/ffmpeg[chromium] ) system-mesa? ( media-libs/mesa )
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=amd64? ( https://github.com/EragonJ/Kaku/releases/download/2.0.2/Kaku_2.0.2_amd64.deb -> kaku-2.0.2-amd64.deb ) x86? ( https://github.com/EragonJ/Kaku/releases/download/2.0.2/Kaku_2.0.2_i386.deb -> kaku-2.0.2-i386.deb )
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	unpacker	2eeba54233fa41bdb15dcddcb63fba3a	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
+_md5_=969ac4c5254af1bc3a10868e5f5db618
