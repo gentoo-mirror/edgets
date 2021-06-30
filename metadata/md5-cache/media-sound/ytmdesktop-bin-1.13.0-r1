@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=A Desktop App for YouTube Music
+EAPI=7
+HOMEPAGE=https://ytmdesktop.app/
+INHERIT=desktop xdg
+IUSE=appindicator libnotify system-mesa xscreensaver
+KEYWORDS=~amd64
+LICENSE=CC0-1
+RDEPEND=dev-libs/glib dev-libs/libindicator dev-libs/nss gnome-base/gconf sys-apps/dbus x11-libs/libXtst x11-libs/gtk+ appindicator? ( dev-libs/libappindicator ) libnotify? ( x11-libs/libnotify ) xscreensaver? ( x11-libs/libXScrnSaver ) system-mesa? ( media-libs/mesa )
+SLOT=0
+SRC_URI=https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.13.0/YouTube-Music-Desktop-App-1.13.0.AppImage -> ytmdesktop-bin-1.13.0.AppImage
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	ff2ff954e6b17929574eee4efc5152ba	xdg	c7ba313ea1eaf266f95cc6235f7d6a07
+_md5_=cc4116d86df66f0db3f27eaa053ce399
