@@ -27,6 +27,9 @@ www-client/min-bin:alsa - Enable alsa support through media-libs/alsa-lib
 www-client/min-bin:doc - Install package documentation
 www-client/min-bin:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 www-client/min-bin:system-mesa - Use the system-wide media-libs/mesa instead of bundled
+x11-misc/figma-linux:doc - Install package documentation
+x11-misc/figma-linux:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
+x11-misc/figma-linux:system-mesa - Use the system-wide media-libs/mesa instead of bundled
 x11-misc/gitify-bin:doc - Install package documentation
 x11-misc/gitify-bin:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 x11-misc/gitify-bin:system-mesa - Use the system-wide media-libs/mesa instead of bundled
