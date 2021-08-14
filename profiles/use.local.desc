@@ -16,6 +16,7 @@ mail-client/gmail-desktop:system-mesa - Use the system-wide media-libs/mesa inst
 mail-client/mailspring:doc - Install package documentation
 mail-client/mailspring:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 mail-client/mailspring:system-mesa - Use the system-wide media-libs/mesa instead of bundled
+media-libs/sp-auth:doc - Install package documentation
 media-sound/kaku:doc - Install package documentation
 media-sound/museeks:doc - Install package documentation
 media-sound/museeks:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled

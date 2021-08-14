@@ -21,6 +21,7 @@ media-gfx/cura 4.9.1: A 3D model slicing application for 3D printing
 media-gfx/curaengine 4.9.1: A 3D model slicing engine for 3D printing
 media-gfx/fdm-materials 4.9.1: FDM materials for media-gfx/cura
 media-gfx/laigter 1.10 1.10.1 1.10.2 1.10.3 1.10.4 1.10.5 1.10.6 9999: Automatic normal map generator for sprites!
+media-libs/sp-auth 3.2.6: A p2p video streaming client
 media-sound/kaku 2.0.2 2.0.2-r1: The next generation music client
 media-sound/lmms 1.2.2: Cross-platform music production software
 media-sound/lyrebird 1.1.0 9999: Simple and powerful voice changer for Linux
