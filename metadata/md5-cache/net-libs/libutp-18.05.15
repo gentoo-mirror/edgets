@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=uTorrent Transport Protocol library
+EAPI=7
+HOMEPAGE=https://github.com/bittorrent/libutp
+KEYWORDS=~amd64 ~arm ~arm64 ~ia64 ~ppc ~ppc64 ~riscv ~sparc ~x86
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/bittorrent/libutp/archive/2b364cbb0650bdab64a5de2abb4518f9f228ec44.zip -> libutp-18.05.15.zip
+_md5_=561d06fb5f137037cb179b316c19622a
