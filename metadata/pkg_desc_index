@@ -30,7 +30,7 @@ media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for d
 media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0 1.13.0-r1: A Desktop App for YouTube Music
 net-im/viber-bin 13.3.1: Free calls, text and picture sharing with anyone, anywhere!
 net-libs/libutp 18.05.15: uTorrent Transport Protocol library
-net-news/raven-reader-bin 1.0.63 1.0.64 1.0.65: Simple desktop RSS Reader
+net-news/raven-reader-bin 1.0.63 1.0.64 1.0.65 1.0.66: Simple desktop RSS Reader
 net-p2p/webtorrent-desktop-bin 0.23.0 0.24.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 sci-electronics/eagle 9.6.2-r1: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-geosciences/aweather 0.8.1: A weather monitoring program
