@@ -4,7 +4,7 @@ app-misc/anki-bin 2.1.37: A spaced-repetition memory training program (flash car
 app-misc/sif 9999: Fix runtime icons of Steam games
 app-office/ganttproject-bin 2.8.10 2.8.11: A tool for creating a project schedule by means of Gantt chart and resource load chart
 app-office/nozbe-bin 3.13.0: To-do, task, project and time management application.
-app-text/simplenote-bin 2.14.0 2.15.0 2.16.0 2.17.0 2.18.0 2.19.0 2.19.1: The simplest way to keep notes
+app-text/simplenote-bin 2.18.0 2.19.0 2.19.1 2.20.0: The simplest way to keep notes
 dev-db/rel 3.014-r1: Rel is a database management system that implements Tutorial D.
 dev-libs/libarcus 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libcharon 4.9.1: This library facilitates communication between Cura and its backend
