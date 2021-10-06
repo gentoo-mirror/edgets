@@ -9,6 +9,7 @@ dev-db/rel 3.014-r1: Rel is a database management system that implements Tutoria
 dev-libs/libarcus 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libcharon 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libsavitar 4.9.1: C++ implementation of 3mf loading with SIP python bindings
+dev-python/d2to1 0.2.12_p1: Allows using distutils2-like setup.cfg files for a package metadata
 dev-python/pynest2d 4.9.1: Python bindings for libnest2d
 dev-python/python3-application 3.0.3: Basic building blocks for python applications
 dev-python/uranium 4.9.1: A Python framework for building 3D printing related applications
