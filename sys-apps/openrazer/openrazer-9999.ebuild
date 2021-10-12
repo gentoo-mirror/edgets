@@ -11,11 +11,11 @@ DESCRIPTION="Razer Drivers for Linux"
 HOMEPAGE="https://openrazer.github.io/"
 
 if [[ ${PV} == 9999 ]]; then
-  inherit git-r3
-  EGIT_REPO_URI="https://github.com/openrazer/openrazer.git"
+	inherit git-r3
+	EGIT_REPO_URI="https://github.com/openrazer/openrazer.git"
 else
-  SRC_URI="https://github.com/openrazer/openrazer/archive/v${PV}.tar.gz -> ${P}.tar.gz"
-  KEYWORDS="~amd64 ~arm ~arm64 ~ppc ~ppc64 ~x86"
+	SRC_URI="https://github.com/openrazer/openrazer/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+	KEYWORDS="~amd64 ~arm ~arm64 ~ppc ~ppc64 ~x86"
 fi
 
 LICENSE="GPL-2"
@@ -37,7 +37,7 @@ RDEPEND="media-libs/libsdl2
 	dev-python/setproctitle[$PYTHON_USEDEP]
 	x11-misc/xautomation
 	x11-misc/xdotool
-  systemd? ( sys-apps/systemd )"
+	systemd? ( sys-apps/systemd )"
 
 DEPEND="${RDEPEND}
 	app-misc/jq"
@@ -89,11 +89,11 @@ src_install() {
 		pushd daemon
 		distutils-r1_python_install
 
-    if use systemd ; then
-  		emake DESTDIR="${D}" install
-    else
-      emake DESTDIR="${D}" ubuntu_install
-  	fi
+	if use systemd ; then
+		emake DESTDIR="${D}" install
+	else
+		emake DESTDIR="${D}" ubuntu_install
+	fi
 
 		popd
 	}
