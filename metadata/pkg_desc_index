@@ -48,7 +48,7 @@ x11-apps/jstest-gtk 0.1.0-r2 9999-r1: Joystick testing and configuration tool
 x11-libs/bamf 0.5.5 9999: BAMF Application Matching Framework
 x11-misc/albert 9999: A fast and flexible keyboard launcher
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
-x11-misc/figma-linux 0.8.1: Unofficial desktop application for linux
+x11-misc/figma-linux 0.8.1 0.9.1: Unofficial desktop application for linux
 x11-misc/gitify-bin 4.2.1: GitHub Notifications on your menu bar.
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/hardcode-tray 9999: Fixes harcoded tray icons in Linux
