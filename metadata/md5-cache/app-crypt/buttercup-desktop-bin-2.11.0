@@ -11,5 +11,5 @@ RDEPEND=dev-libs/libappindicator dev-libs/glib gnome-base/gconf sys-apps/dbus x1
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/buttercup/buttercup-desktop/releases/download/v2.11.0/Buttercup-linux-x64.AppImage -> buttercup-desktop-bin-2.11.0.AppImage
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857
 _md5_=04c2bf8f611340ef32cba4890b8fc8f1
