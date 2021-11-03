@@ -1,12 +1,13 @@
-DEFINED_PHASES=install postinst postrm unpack
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 DESCRIPTION=Rel is a database management system that implements Tutorial D.
 EAPI=7
 HOMEPAGE=https://reldb.org/
-INHERIT=desktop unpacker xdg-utils
+INHERIT=desktop unpacker xdg
 IUSE=doc
-KEYWORDS=~amd64
+KEYWORDS=-* ~amd64
 LICENSE=Apache-2.0
 SLOT=0
 SRC_URI=https://sourceforge.net/projects/dbappbuilder/files/Rel/Rel%20version%203.014/Rel3.014.linux.tar.gz/download -> rel-3.014.tar.gz https://a.fsdn.com/allura/p/dbappbuilder/icon?1516966776?&w=90 -> rel.png
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	unpacker	928e1f35ef78ba9fc2b214e29c2b55a4	xdg-utils	4f29a8b760a594a212abe9c2ba957c31
-_md5_=15c051f7362c29fa3a84724d27d8db8a
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	unpacker	928e1f35ef78ba9fc2b214e29c2b55a4	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857
+_md5_=a5c31077c1e5fc5d71d767da59f77058
