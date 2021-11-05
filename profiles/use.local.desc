@@ -9,7 +9,6 @@ app-crypt/swifty:system-mesa - Use the system-wide media-libs/mesa instead of bu
 app-text/simplenote-bin:doc - Install package documentation
 app-text/simplenote-bin:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 app-text/simplenote-bin:system-mesa - Use the system-wide media-libs/mesa instead of bundled
-games-action/ftb-launcher:numix-circle-icon - Install icon that fits numix-circle icon theme
 mail-client/gmail-desktop:doc - Install package documentation
 mail-client/gmail-desktop:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 mail-client/gmail-desktop:system-mesa - Use the system-wide media-libs/mesa instead of bundled
