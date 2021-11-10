@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=x11-libs/gtk+:2 >=x11-libs/gtk+-3.18:3 x11-themes/gtk-engines-murrine
+DESCRIPTION=Material Design theme for GNOME/GTK based desktop environments.
+EAPI=7
+HOMEPAGE=https://github.com/vinceliuice/Orchis-theme
+INHERIT=git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=x11-libs/gtk+:2 >=x11-libs/gtk+-3.18:3 x11-themes/gtk-engines-murrine
+RESTRICT=mirror
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=47e859378f37c1d828faa1555b0044d2
