@@ -8,7 +8,7 @@ INHERIT=git-r3
 LICENSE=MIT
 PROPERTIES=live
 RDEPEND=dev-lang/sassc dev-libs/glib dev-libs/libxml2 x11-libs/gtk+:2 >=x11-libs/gtk+-3.18:3 x11-themes/gtk-engines-murrine
-RESTRICT=fetch
+RESTRICT=mirror
 SLOT=0
 _eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
-_md5_=56c4de5384501fba9d4de90eee8d05aa
+_md5_=c2ed2b7057aedd2e0272da3d6c0e8fae
