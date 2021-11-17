@@ -42,6 +42,7 @@ net-libs/libutp 18.05.15: uTorrent Transport Protocol library
 net-news/raven-reader-bin 1.0.65 1.0.66 1.0.67: Simple desktop RSS Reader
 net-p2p/webtorrent-desktop-bin 0.23.0 0.24.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 sci-electronics/eagle 9.6.2-r1: EAGLE schematic and printed circuit board (PCB) layout editor
+sci-electronics/micoscope 1.1: Use your pc sound card as an oscilloscope, function-generator, and UART tester.
 sci-geosciences/aweather 0.8.1: A weather monitoring program
 sci-geosciences/google-earth-bin 7.3.3: Explore, search and discover the planet.
 sci-libs/grits 0.8.1: Virtual Globe library
