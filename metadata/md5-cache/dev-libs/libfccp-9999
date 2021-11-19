@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install prepare unpack
+DESCRIPTION=Small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
+EAPI=8
+HOMEPAGE=https://github.com/ben-strasser/fast-cpp-csv-parser
+INHERIT=git-r3
+IUSE=doc
+LICENSE=BSD-3
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=0e451dd3b0796af3a9b01ca7edbff9f3

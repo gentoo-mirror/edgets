@@ -1,0 +1,11 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=Small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
+EAPI=8
+HOMEPAGE=https://github.com/ben-strasser/fast-cpp-csv-parser
+IUSE=doc
+KEYWORDS=~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~ppc ~ppc64 ~sparc ~x86
+LICENSE=BSD-3
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/ben-strasser/fast-cpp-csv-parser/archive/5a417973b4cea674a5e4a3b88a23098a2ab75479.zip -> libfccp-2021.11.03.zip
+_md5_=cd638e48a2c779b9e11bf2f91e32c3bd
