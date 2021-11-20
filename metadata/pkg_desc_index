@@ -24,6 +24,7 @@ games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community
 games-strategy/mindustry 6.0.126.2 7.0_pre132 7.0_pre133 7.0_pre134: A sandbox tower defense game
 games-util/oversteer 0.5.5 0.6.0 9999: Steering Wheel Manager for Linux
 gnome-extra/dialect 1.4.1 9999: A translation app for GNOME.
+gnome-extra/icon-library 9999: Symbolic icons for your apps
 mail-client/gmail-desktop 2.25.2 2.25.3 2.25.3-r1: Unofficial Gmail Desktop App
 mail-client/mailspring 1.8.0 1.9.0 1.9.1 1.9.1-r1 1.9.2: The best email app for people and teams at work
 media-gfx/cura 4.9.1: A 3D model slicing application for 3D printing
