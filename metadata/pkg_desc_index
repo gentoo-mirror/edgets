@@ -7,6 +7,7 @@ app-office/nozbe-bin 3.13.0 3.19.0: To-do, task, project and time management app
 app-text/simplenote-bin 2.19.0 2.19.1 2.20.0 2.21.0: The simplest way to keep notes
 dev-db/rel 3.014-r1: Rel is a database management system that implements Tutorial D.
 dev-java/liberica-jre-bin 13.0.1 17_p35: The best alternative to Oracle JDK
+dev-libs/libadwaita 21.11.16 9999: Building blocks for modern GNOME applications
 dev-libs/libarcus 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libcharon 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libfccp 2021.11.03 9999: Small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
