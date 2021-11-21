@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install
+DESCRIPTION=BitTorrent DHT library
+EAPI=8
+HOMEPAGE=https://github.com/jech/dht
+IUSE=doc examples
+KEYWORDS=~alpha ~amd64 ~arm ~arm64 ~hppa ~ia64 ~ppc ~ppc64 ~sparc ~x86
+LICENSE=MIT
+RDEPEND=examples? ( virtual/libcrypt )
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/jech/dht/archive/refs/tags/dht-0.26.tar.gz
+_md5_=cd3e68ce298facafb964e0248d8485c5
