@@ -19,7 +19,7 @@ dev-python/googletrans 3.0.0 3.1.0_alpha0: Free and Unlimited Google translate A
 dev-python/pynest2d 4.9.1: Python bindings for libnest2d
 dev-python/python3-application 3.0.3: Basic building blocks for python applications
 dev-python/uranium 4.9.1: A Python framework for building 3D printing related applications
-dev-util/dart-sass 1.45.2 1.46.0 1.47.0 1.48.0 1.49.0: The reference implementation of Sass, written in Dart.
+dev-util/dart-sass 1.46.0 1.47.0 1.48.0 1.49.0 1.49.4: The reference implementation of Sass, written in Dart.
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 games-strategy/mindustry 6.0.126.2 7.0_pre132 7.0_pre133 7.0_pre134 7.0_pre135: A sandbox tower defense game
