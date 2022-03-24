@@ -9,5 +9,5 @@ LICENSE=nozbe
 RDEPEND=dev-libs/libappindicator dev-libs/nss gnome-base/gconf libnotify? ( x11-libs/libnotify ) media-libs/alsa-lib media-libs/freetype xscreensaver? ( x11-libs/libXScrnSaver ) xtest? ( x11-libs/libXtst ) x11-libs/gtk+
 SLOT=0
 SRC_URI=http://webly3d.net/static/edgets-overlay/app-office/nozbe-bin/nozbe-bin-3.13.0.tar.gz
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	unpacker	2e16b7d5aafeda049669c53c05ce03c9	xdg-utils	4f29a8b760a594a212abe9c2ba957c31
+_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784	unpacker	697382d119fd3d195f110b7979184285	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
 _md5_=1a0879380ce460ceaf64d24495179928
