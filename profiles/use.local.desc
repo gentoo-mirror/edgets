@@ -18,7 +18,6 @@ mail-client/mailspring:system-mesa - Use the system-wide media-libs/mesa instead
 media-libs/sp-auth:doc - Install package documentation
 media-sound/kaku:doc - Install package documentation
 media-sound/museeks:doc - Install package documentation
-media-sound/museeks:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 media-sound/museeks:system-mesa - Use the system-wide media-libs/mesa instead of bundled
 net-news/raven-reader-bin:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 net-news/raven-reader-bin:system-mesa - Use the system-wide media-libs/mesa instead of bundled
