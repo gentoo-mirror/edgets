@@ -67,7 +67,7 @@ x11-misc/gitify-bin 4.2.1 4.3.0 4.3.1: GitHub Notifications on your menu bar.
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/hardcode-tray 9999: Fixes harcoded tray icons in Linux
 x11-misc/nyrna 1.2 1.3: Simple program to pause games & applications
-x11-misc/nyrna-bin 1.2 1.3 2.3.0 2.3.1: Simple program to suspend games and applications
+x11-misc/nyrna-bin 1.2 1.3 2.3.0 2.3.1 2.4.1: Simple program to suspend games and applications
 x11-misc/plank 0.11.89-r1 9999: Elegant, simple, clean dock
 x11-misc/polychromatic 0.7.0 0.7.1 0.7.2 0.7.3 9999: An open source RGB lighting management front-end application to customise OpenRazer peripherals on GNU/Linux.
 x11-misc/rescuetime 2.16.5.1: A service that provides the user with the knowledge of how they spend their time while on the computer.
