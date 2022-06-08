@@ -27,7 +27,7 @@ games-util/oversteer 0.5.5 0.6.0 0.7.0 9999: Steering Wheel Manager for Linux
 gnome-extra/dialect 1.4.1 9999: A translation app for GNOME.
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
 mail-client/gmail-desktop 2.25.2 2.25.3 2.25.3-r1: Unofficial Gmail Desktop App
-mail-client/mailspring 1.8.0 1.9.0 1.9.1 1.9.1-r1 1.9.2 1.10.0: The best email app for people and teams at work
+mail-client/mailspring 1.9.0 1.9.1 1.9.1-r1 1.9.2 1.10.0 1.10.3: The best email app for people and teams at work
 media-gfx/cura 4.9.1: A 3D model slicing application for 3D printing
 media-gfx/curaengine 4.9.1: A 3D model slicing engine for 3D printing
 media-gfx/fdm-materials 4.9.1: FDM materials for media-gfx/cura
@@ -52,7 +52,7 @@ sci-geosciences/aweather 0.8.1: A weather monitoring program
 sci-geosciences/google-earth-bin 7.3.3 7.3.4: Explore, search and discover the planet
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
-sys-apps/openrazer 3.1.0-r1 3.2.0 9999: Razer Drivers for Linux
+sys-apps/openrazer 3.1.0-r1 3.2.0 3.3.0 9999: Razer Drivers for Linux
 www-client/min-bin 1.21.0 1.22.0 1.22.1 1.22.2 1.23.0 1.24.0: Min is a fast, minimal browser that protects your privacy.
 www-client/phantomjs-bin 2.1.1: A headless WebKit scriptable with a JavaScript API
 www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
