@@ -39,7 +39,7 @@ media-sound/lmms 1.2.2: Cross-platform music production software
 media-sound/lyrebird 1.1.0 9999: Simple and powerful voice changer for Linux
 media-sound/museeks 0.13.0: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js.
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
-media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0 1.13.0-r1: A Desktop App for YouTube Music
+media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0 1.13.0-r1 1.14.2: A Desktop App for YouTube Music
 net-im/kotatogram-desktop-bin 1.4.1 1.4.5 1.4.6 1.4.8 1.4.9: Experimental Telegram Desktop fork
 net-im/viber-bin 13.3.1 16.1.0.37: Viber for Desktop.
 net-libs/libutp 18.05.15: uTorrent Transport Protocol library
