@@ -1,0 +1,13 @@
+DEFINED_PHASES=install
+DEPEND=app-misc/ca-certificates
+DESCRIPTION=Internet connection measurement for developers
+EAPI=8
+HOMEPAGE=https://www.speedtest.net/apps/cli
+IUSE=doc
+KEYWORDS=-* ~amd64 ~x86
+LICENSE=all-rights-reserved
+RDEPEND=app-misc/ca-certificates
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=amd64? ( https://install.speedtest.net/app/cli/ookla-speedtest-1.1.1-linux-x86_64.tgz -> ookla-speedtest-1.1.1-amd64.tgz ) x86? ( https://install.speedtest.net/app/cli/ookla-speedtest-1.1.1-linux-i386.tgz -> ookla-speedtest-1.1.1-x86.tgz )
+_md5_=6fafd3c5fe40939f123f2c5f127e6ba1
