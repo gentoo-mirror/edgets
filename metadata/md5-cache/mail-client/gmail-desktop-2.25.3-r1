@@ -11,5 +11,5 @@ RDEPEND=app-accessibility/at-spi2-core app-crypt/libsecret dev-libs/nss sys-apps
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/timche/gmail-desktop/releases/download/v2.25.3/gmail-desktop-2.25.3-linux.deb -> gmail-desktop-2.25.3.deb
-_eclasses_=toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85	unpacker	697382d119fd3d195f110b7979184285	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=toolchain-funcs	3484f775017f532a8d1ae02c65defe13	multilib	4fbbbc98f236f1b43acd99476bc3cd85	unpacker	697382d119fd3d195f110b7979184285	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
 _md5_=06fd209a9ae054020b0d4a213880a9f1
