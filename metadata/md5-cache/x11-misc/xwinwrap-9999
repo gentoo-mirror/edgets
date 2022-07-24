@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=prepare unpack
+DEPEND=x11-base/xorg-server x11-libs/libX11 x11-libs/libXext x11-libs/libXrender
+DESCRIPTION=Utility to replace a desktop background with a movie, screensaver, etc
+EAPI=8
+HOMEPAGE=https://github.com/mmhobi7/xwinwrap
+INHERIT=git-r3
+LICENSE=HPND
+PROPERTIES=live
+RDEPEND=x11-base/xorg-server x11-libs/libX11 x11-libs/libXext x11-libs/libXrender
+SLOT=0
+_eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
+_md5_=3b0fbb833d9642b44a6f6759abe18e74
