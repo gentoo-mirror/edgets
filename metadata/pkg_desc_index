@@ -6,7 +6,7 @@ app-office/ganttproject-bin 2.8.10 2.8.11 3.1.3102 3.2.3240: A tool for creating
 app-office/nozbe-bin 3.13.0 3.19.0: To-do, task, project and time management application.
 app-text/simplenote-bin 2.19.0 2.19.1 2.20.0 2.21.0: The simplest way to keep notes
 dev-db/rel 3.014-r1: Rel is a database management system that implements Tutorial D.
-dev-java/liberica-jre-bin 13.0.1 17_p35: The best alternative to Oracle JDK
+dev-java/liberica-jre-bin 13.0.1 17_p35 17.0.4_p8: The best alternative to Oracle JDK
 dev-libs/dht 0.26: BitTorrent DHT library
 dev-libs/libarcus 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libcharon 4.9.1: This library facilitates communication between Cura and its backend
