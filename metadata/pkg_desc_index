@@ -23,7 +23,7 @@ dev-util/dart-sass 1.54.3 1.54.4 1.54.5 1.54.8 1.54.9: The reference implementat
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 games-strategy/mindustry 6.0.126.2 7.0_pre132 7.0_pre133 7.0_pre134 7.0_pre135 7.0_pre137: A sandbox tower defense game
-games-util/oversteer 0.7.1 9999: Steering Wheel Manager for Linux
+games-util/oversteer 0.7.1 0.7.2 9999: Steering Wheel Manager for Linux
 gnome-extra/dialect 1.4.1 9999: A translation app for GNOME.
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
 mail-client/gmail-desktop 2.25.2 2.25.3 2.25.3-r1: Unofficial Gmail Desktop App
