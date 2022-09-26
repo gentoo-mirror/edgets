@@ -41,7 +41,7 @@ media-sound/lyrebird 1.1.0 9999: Simple and powerful voice changer for Linux
 media-sound/museeks 0.13.0 0.13.1: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js.
 media-sound/polyphone 2.3.1: A soundfont editor for quickly designing musical instruments.
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
-media-sound/tidal-hifi 4.1.1 4.1.2: Tidal on Electron with widevine(hifi) support
+media-sound/tidal-hifi 4.1.1 4.1.2 4.2.0: Tidal on Electron with widevine(hifi) support
 media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0 1.13.0-r1 1.14.2: A Desktop App for YouTube Music
 media-video/animated-wallpaper 9999: Animated wallpaper for Gnome and other desktops
 media-video/borderless-camera 0.0.5: Simple camera app without window borders, useful for the screencast recording.
@@ -59,7 +59,7 @@ sci-geosciences/google-earth-bin 7.3.3 7.3.4: Explore, search and discover the p
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
 sys-apps/openrazer 3.2.0 3.3.0 3.4.0 9999: Razer Drivers for Linux
-www-client/min-bin 1.22.1 1.22.2 1.23.0 1.24.0 1.25.0 1.25.1: Min is a fast, minimal browser that protects your privacy.
+www-client/min-bin 1.22.2 1.23.0 1.24.0 1.25.0 1.25.1 1.26.0: Min is a fast, minimal browser that protects your privacy.
 www-client/phantomjs-bin 2.1.1: A headless WebKit scriptable with a JavaScript API
 www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
 x11-apps/jstest-gtk 9999: Joystick testing and configuration tool
