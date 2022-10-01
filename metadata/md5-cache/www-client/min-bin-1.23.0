@@ -11,5 +11,5 @@ RDEPEND=app-accessibility/at-spi2-core dev-libs/libgcrypt dev-libs/nss gnome-bas
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=amd64? ( https://github.com/minbrowser/min/releases/download/v1.23.0/min_1.23.0_amd64.deb -> min-bin-1.23.0-amd64.deb ) arm64? ( https://github.com/minbrowser/min/releases/download/v1.23.0/min_1.23.0_arm64.deb -> min-bin-1.23.0-arm64.deb )
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	unpacker	3c8380796b325aa1d33b234a04924d52	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157	unpacker	bc57272a0491765c71d973c8cfd35063	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e	xdg	6024fbc93167fad782e2032933654857
 _md5_=0e280b6d5db36ee50f8ad29cbb318231
