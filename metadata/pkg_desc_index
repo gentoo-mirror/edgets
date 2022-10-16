@@ -55,7 +55,7 @@ sci-electronics/audmes 2021.11.04 9999: Multi-platfrom system for audio measurem
 sci-electronics/eagle 9.6.2-r1: EAGLE schematic and printed circuit board (PCB) layout editor
 sci-electronics/micoscope 1.1: Use your pc sound card as an oscilloscope, function-generator, and UART tester.
 sci-geosciences/aweather 0.8.1: A weather monitoring program
-sci-geosciences/google-earth-bin 7.3.3 7.3.4: Explore, search and discover the planet
+sci-geosciences/google-earth-bin 7.3.4: Explore, search and discover the planet
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
 sys-apps/openrazer 3.2.0 3.3.0 3.4.0 9999: Razer Drivers for Linux
