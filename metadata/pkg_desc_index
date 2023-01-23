@@ -43,7 +43,7 @@ media-sound/lyrebird 1.1.0 9999: Simple and powerful voice changer for Linux
 media-sound/museeks 0.13.0 0.13.1: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js.
 media-sound/polyphone 2.3.1: A soundfont editor for quickly designing musical instruments.
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
-media-sound/tidal-hifi 4.1.2 4.2.0 4.3.0 4.3.1: Tidal on Electron with widevine(hifi) support
+media-sound/tidal-hifi 4.2.0 4.3.0 4.3.1 4.4.0: Tidal on Electron with widevine(hifi) support
 media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0 1.13.0-r1 1.14.2: A Desktop App for YouTube Music
 media-video/animated-wallpaper 9999: Animated wallpaper for Gnome and other desktops
 media-video/borderless-camera 0.0.5: Simple camera app without window borders, useful for the screencast recording.
