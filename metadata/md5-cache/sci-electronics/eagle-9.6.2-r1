@@ -11,5 +11,5 @@ RDEPEND=app-arch/bzip2 app-crypt/mit-krb5 dev-libs/expat dev-libs/glib dev-libs/
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=http://trial2.autodesk.com/NET17SWDLD/2017/EGLPRM/ESD/Autodesk_EAGLE_9.6.2_English_Linux_64bit.tar.gz -> eagle-9.6.2.tar.gz
-_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
 _md5_=61dbeb959877d7809191d81120e69a48

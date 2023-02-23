@@ -9,5 +9,5 @@ LICENSE=MIT
 PROPERTIES=live
 RDEPEND=>=dev-lang/python-3 dev-python/pygobject dev-python/toml media-sound/pavucontrol media-sound/pulseaudio media-sound/sox[pulseaudio] x11-libs/gtk+
 SLOT=0
-_eclasses_=desktop	7eb20ad915a0a318176d51bc2508ff5c	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857	git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857	git-r3	2347f8fe2d392b2a091191f94be37e6f
 _md5_=c1bb10d870e7c05803f494e0626fe7bc
