@@ -26,7 +26,7 @@ dev-util/dart-sass 1.54.8 1.54.9 1.55.0 1.56.1 1.58.3: The reference implementat
 dev-util/postman 10.10.9: API platform for building and using APIs
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
-games-strategy/mindustry 6.0.126.2 7.0_pre139 7.0.140.4 7.0.141.2: A sandbox tower defense game
+games-strategy/mindustry 6.0.126.2 7.0.140.4 7.0.141.2 7.0.142: A sandbox tower defense game
 games-util/oversteer 0.7.1 0.7.2 9999: Steering Wheel Manager for Linux
 gnome-extra/dialect 1.4.1 9999: A translation app for GNOME.
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
