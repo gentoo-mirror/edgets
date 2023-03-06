@@ -51,7 +51,7 @@ media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0 1.13.0-r1 1.14.2: A Desktop App 
 media-video/animated-wallpaper 9999: Animated wallpaper for Gnome and other desktops
 media-video/borderless-camera 0.0.5: Simple camera app without window borders, useful for the screencast recording.
 media-video/upscayl 2.0.1: AI Image Upscaler
-net-analyzer/ookla-speedtest 1.1.1: Internet connection measurement for developers
+net-analyzer/ookla-speedtest 1.2.0: Internet connection measurement for developers
 net-im/kotatogram-desktop-bin 1.4.1 1.4.5 1.4.6 1.4.8 1.4.9: Experimental Telegram Desktop fork
 net-im/viber-bin 13.3.1 16.1.0.37: Viber for Desktop.
 net-libs/libutp 18.05.15: uTorrent Transport Protocol library
