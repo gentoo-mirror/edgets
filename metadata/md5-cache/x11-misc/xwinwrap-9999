@@ -9,5 +9,5 @@ LICENSE=HPND
 PROPERTIES=live
 RDEPEND=x11-base/xorg-server x11-libs/libX11 x11-libs/libXext x11-libs/libXrender
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=3b0fbb833d9642b44a6f6759abe18e74

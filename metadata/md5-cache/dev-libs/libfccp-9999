@@ -8,5 +8,5 @@ IUSE=doc
 LICENSE=BSD-3
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=0e451dd3b0796af3a9b01ca7edbff9f3

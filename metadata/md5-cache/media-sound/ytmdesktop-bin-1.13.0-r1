@@ -10,5 +10,5 @@ LICENSE=CC0-1
 RDEPEND=dev-libs/glib dev-libs/libindicator dev-libs/nss gnome-base/gconf sys-apps/dbus x11-libs/libXtst x11-libs/gtk+ appindicator? ( dev-libs/libappindicator ) libnotify? ( x11-libs/libnotify ) xscreensaver? ( x11-libs/libXScrnSaver ) system-mesa? ( media-libs/mesa )
 SLOT=0
 SRC_URI=https://github.com/ytmdesktop/ytmdesktop/releases/download/v1.13.0/YouTube-Music-Desktop-App-1.13.0.AppImage -> ytmdesktop-bin-1.13.0.AppImage
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	4a14c5c24f121e7da66e5aab4a168c6e
 _md5_=cc4116d86df66f0db3f27eaa053ce399
