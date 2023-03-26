@@ -10,5 +10,5 @@ RDEPEND=dev-libs/keybinder x11-libs/gtk+ !x11-misc/nyrna x11-misc/wmctrl x11-mis
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://github.com/Merrit/nyrna/releases/download/v2.6.0/Nyrna-Linux-Portable.tar.gz -> nyrna-bin-2.6.0.tar.gz
-_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	4a14c5c24f121e7da66e5aab4a168c6e
+_eclasses_=desktop	021728fdc1b03b36357dbc89489e0f0d	xdg-utils	baea6080dd821f5562d715887954c9d3	xdg	4a14c5c24f121e7da66e5aab4a168c6e
 _md5_=340d52491b42faa5608b0e8bc858381b
