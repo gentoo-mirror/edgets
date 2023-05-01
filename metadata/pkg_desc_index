@@ -11,19 +11,14 @@ dev-db/postgresql 9.6.24-r1: PostgreSQL RDBMS
 dev-db/rel 3.014-r1: Rel is a database management system that implements Tutorial D.
 dev-java/liberica-jre-bin 13.0.1 17_p35 17.0.4_p8: The best alternative to Oracle JDK
 dev-libs/dht 0.26: BitTorrent DHT library
-dev-libs/libarcus 4.9.1: This library facilitates communication between Cura and its backend
-dev-libs/libcharon 4.9.1: This library facilitates communication between Cura and its backend
 dev-libs/libdecor 0.1.1 9999: A client-side decorations library for Wayland client
 dev-libs/libfccp 2021.11.03 9999: Small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
-dev-libs/libsavitar 4.9.1: C++ implementation of 3mf loading with SIP python bindings
 dev-python/colour 0.1.5: Converts and manipulates common color representation (RGB, HSL, web, ect.)
 dev-python/d2to1 0.2.12_p1: Allows using distutils2-like setup.cfg files for a package metadata
 dev-python/eventlet 0.33.1: Highly concurrent networking library
 dev-python/gTTS 2.2.3: gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API
 dev-python/googletrans 3.0.0 3.1.0_alpha0: Free and Unlimited Google translate API for Python.
-dev-python/pynest2d 4.9.1: Python bindings for libnest2d
 dev-python/python3-application 3.0.3: Basic building blocks for python applications
-dev-python/uranium 4.9.1: A Python framework for building 3D printing related applications
 dev-util/dart-sass 1.54.9 1.55.0 1.56.1 1.58.3 1.61.0: The reference implementation of Sass, written in Dart.
 dev-util/postman 10.10.9 10.12.0: API platform for building and using APIs
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
@@ -34,7 +29,6 @@ gnome-extra/dialect 1.4.1 9999: A translation app for GNOME.
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
 mail-client/gmail-desktop 2.25.2 2.25.3 2.25.3-r1: Unofficial Gmail Desktop App
 mail-client/mailspring 1.10.5 1.10.6 1.10.7 1.10.8: The best email app for people and teams at work
-media-gfx/cura 4.9.1: A 3D model slicing application for 3D printing
 media-gfx/curaengine 4.9.1: A 3D model slicing engine for 3D printing
 media-gfx/fdm-materials 4.9.1: FDM materials for media-gfx/cura
 media-gfx/laigter 1.10.4 1.10.5 1.10.6 1.10.7 9999: Automatic normal map generator for sprites!
