@@ -59,7 +59,7 @@ sci-geosciences/aweather 0.8.1: A weather monitoring program
 sci-geosciences/google-earth-bin 7.3.4: Explore, search and discover the planet
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
-sys-apps/openrazer 3.2.0 3.3.0 3.4.0 9999: Razer Drivers for Linux
+sys-apps/openrazer 3.3.0 3.4.0 9999: Razer Drivers for Linux
 www-client/min-bin 1.22.2 1.23.0 1.24.0 1.25.0 1.25.1 1.26.0: Min is a fast, minimal browser that protects your privacy.
 www-client/phantomjs-bin 2.1.1: A headless WebKit scriptable with a JavaScript API
 www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
