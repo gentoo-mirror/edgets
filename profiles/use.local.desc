@@ -6,9 +6,7 @@ app-crypt/buttercup-desktop-bin:xtest - Enable support for x11-libs/libXtst
 app-crypt/swifty:doc - Install package documentation
 app-crypt/swifty:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 app-crypt/swifty:system-mesa - Use the system-wide media-libs/mesa instead of bundled
-app-text/simplenote-bin:doc - Install package documentation
-app-text/simplenote-bin:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
-app-text/simplenote-bin:system-mesa - Use the system-wide media-libs/mesa instead of bundled
+app-text/simplenote:doc - Install package documentation
 mail-client/gmail-desktop:doc - Install package documentation
 mail-client/gmail-desktop:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 mail-client/gmail-desktop:system-mesa - Use the system-wide media-libs/mesa instead of bundled
