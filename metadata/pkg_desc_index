@@ -48,7 +48,7 @@ net-analyzer/ookla-speedtest 1.2.0: Internet connection measurement for develope
 net-im/kotatogram-desktop-bin 1.4.1 1.4.5 1.4.6 1.4.8 1.4.9: Experimental Telegram Desktop fork
 net-im/viber-bin 13.3.1 16.1.0.37: Viber for Desktop.
 net-libs/libutp 18.05.15: uTorrent Transport Protocol library
-net-news/raven-reader-bin 1.0.74 1.0.75 1.0.76 1.0.78: Simple desktop RSS Reader
+net-news/raven-reader 1.0.79: Simple desktop RSS Reader
 net-p2p/fragments 2.1: Easy to use BitTorrent client
 net-p2p/webtorrent-desktop-bin 0.23.0 0.24.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 sci-electronics/audmes 2021.11.04 9999: Multi-platfrom system for audio measurement through sound card in the PC.
