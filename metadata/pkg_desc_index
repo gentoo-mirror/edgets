@@ -1,4 +1,4 @@
-app-crypt/buttercup-desktop-bin 1.20.5 2.15.1 2.16.0 2.17.0: A free, open-source and cross-platform password manager.
+app-crypt/buttercup-desktop 2.20.2: A free, open-source and cross-platform password manager.
 app-crypt/libproidplus-gui 2.4.2: ProID+, ProID+Q, ProID+NG gui middleware package.
 app-crypt/proidcm 1.0.1: ProID smart cards management utility
 app-crypt/swifty 0.6.6 0.6.10 0.6.13: Modern, Lightweight, Fast and Free Password Manager
