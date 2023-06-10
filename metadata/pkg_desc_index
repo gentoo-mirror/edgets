@@ -1,4 +1,4 @@
-app-crypt/buttercup-desktop 2.20.2: A free, open-source and cross-platform password manager.
+app-crypt/buttercup-desktop 2.20.2 2.20.3: A free, open-source and cross-platform password manager.
 app-crypt/libproidplus-gui 2.4.2: ProID+, ProID+Q, ProID+NG gui middleware package.
 app-crypt/proidcm 1.0.1: ProID smart cards management utility
 app-crypt/swifty 0.6.6 0.6.10 0.6.13: Modern, Lightweight, Fast and Free Password Manager
@@ -19,11 +19,11 @@ dev-python/eventlet 0.33.1: Highly concurrent networking library
 dev-python/gTTS 2.2.3: gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API
 dev-python/googletrans 3.0.0 3.1.0_alpha0: Free and Unlimited Google translate API for Python.
 dev-python/python3-application 3.0.3: Basic building blocks for python applications
-dev-util/dart-sass 1.54.9 1.55.0 1.56.1 1.58.3 1.61.0: The reference implementation of Sass, written in Dart.
+dev-util/dart-sass 1.55.0 1.56.1 1.58.3 1.61.0 1.63.3: The reference implementation of Sass, written in Dart.
 dev-util/postman 10.10.9 10.12.0: API platform for building and using APIs
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
-games-strategy/mindustry 6.0.126.2 7.0.140.4 7.0.141.2 7.0.142 7.0.143: A sandbox tower defense game
+games-strategy/mindustry 6.0.126.2 7.0.141.2 7.0.142 7.0.143 7.0.144.3: A sandbox tower defense game
 games-util/oversteer 0.7.1 0.7.2 9999: Steering Wheel Manager for Linux
 gnome-extra/dialect 1.4.1 9999: A translation app for GNOME.
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
@@ -48,7 +48,7 @@ net-analyzer/ookla-speedtest 1.2.0: Internet connection measurement for develope
 net-im/kotatogram-desktop-bin 1.4.1 1.4.5 1.4.6 1.4.8 1.4.9: Experimental Telegram Desktop fork
 net-im/viber-bin 13.3.1 16.1.0.37: Viber for Desktop.
 net-libs/libutp 18.05.15: uTorrent Transport Protocol library
-net-news/raven-reader 1.0.79: Simple desktop RSS Reader
+net-news/raven-reader 1.0.79 1.0.80: Simple desktop RSS Reader
 net-p2p/fragments 2.1: Easy to use BitTorrent client
 net-p2p/webtorrent-desktop-bin 0.23.0 0.24.0: WebTorrent, the streaming torrent client. For Mac, Windows, and Linux.
 sci-electronics/audmes 2021.11.04 9999: Multi-platfrom system for audio measurement through sound card in the PC.
