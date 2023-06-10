@@ -11,4 +11,4 @@ RDEPEND=dev-lang/sassc dev-libs/glib dev-libs/libxml2 x11-libs/gtk+:2 >=x11-libs
 RESTRICT=mirror
 SLOT=0
 _eclasses_=git-r3	27e13c09a4c7e4c78ac812f74727e676
-_md5_=72a87280a46f2b76aacbb46aa2083bba
+_md5_=99ba1872933ae4e57f64bcbeb33143e3
