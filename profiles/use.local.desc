@@ -21,9 +21,6 @@ www-client/min:doc - Install package documentation
 x11-misc/figma-linux:doc - Install package documentation
 x11-misc/figma-linux:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
 x11-misc/figma-linux:system-mesa - Use the system-wide media-libs/mesa instead of bundled
-x11-misc/gitify-bin:doc - Install package documentation
-x11-misc/gitify-bin:system-ffmpeg - Use the system-wide media-video/ffmpeg instead of bundled
-x11-misc/gitify-bin:system-mesa - Use the system-wide media-libs/mesa instead of bundled
 x11-misc/gsubs-bin:xtest - Enable support for x11-libs/libXtst
 x11-misc/plank:apport - Enable installation of Apport support files
 x11-misc/plank:barriers - Enable use of barriers
