@@ -27,7 +27,7 @@ gnome-extra/dialect 1.4.1 9999: A translation app for GNOME.
 gnome-extra/gnome-pomodoro 0.23.1: A time management utility for GNOME based on the pomodoro technique!
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
 mail-client/gmail-desktop 2.25.2 2.25.3 2.25.3-r1: Unofficial Gmail Desktop App
-mail-client/mailspring 1.10.8 1.11.0: The best email app for people and teams at work
+mail-client/mailspring 1.11.0 1.13.1: The best email app for people and teams at work
 media-gfx/cura 5.3.1: 3D printer / slicing GUI built on top of the Uranium framework
 media-gfx/laigter 1.11.0 9999: Automatic normal map generator for sprites!
 media-gfx/pixeluvo 1.6.0: Easy to use image editor
