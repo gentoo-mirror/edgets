@@ -57,7 +57,7 @@ sci-geosciences/aweather 0.8.1: A weather monitoring program
 sci-geosciences/google-earth-bin 7.3.6: Explore, search and discover the planet
 sci-libs/grits 0.8.1: Virtual Globe library
 sci-libs/rsl 1.50: Radar Software Library
-www-client/min 1.27.0 1.29.0: Min is a fast, minimal browser that protects your privacy.
+www-client/min 1.29.0 1.30.0: Min is a fast, minimal browser that protects your privacy.
 www-client/phantomjs-bin 2.1.1: A headless WebKit scriptable with a JavaScript API
 www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
 x11-apps/jstest-gtk 9999: Joystick testing and configuration tool
