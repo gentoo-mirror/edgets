@@ -14,7 +14,7 @@ dev-libs/libdecor 0.1.1 9999: A client-side decorations library for Wayland clie
 dev-libs/libfccp 2021.11.03 9999: Small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 dev-python/d2to1 0.2.12_p1: Allows using distutils2-like setup.cfg files for a package metadata
 dev-python/eventlet 0.33.1: Highly concurrent networking library
-dev-python/gTTS 2.2.3: gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API
+dev-python/gTTS 2.5.0: gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API
 dev-python/googletrans 3.0.0 3.1.0_alpha0: Free and Unlimited Google translate API for Python.
 dev-python/python3-application 3.0.3: Basic building blocks for python applications
 dev-util/dart-sass 1.69.3 1.69.6: The reference implementation of Sass, written in Dart.
