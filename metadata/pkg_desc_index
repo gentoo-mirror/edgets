@@ -22,7 +22,7 @@ dev-util/postman 10.12.0 10.19.0: API platform for building and using APIs
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 games-strategy/mindustry 6.0.126.2 7.0.143 7.0.144.3 7.0.146: A sandbox tower defense game
-games-util/oversteer 0.7.2 0.8.0 9999: Steering Wheel Manager for Linux
+games-util/oversteer 0.8.1 9999: Steering Wheel Manager for Linux
 gnome-extra/dialect 2.2.0 9999: A translation app for GNOME.
 gnome-extra/gnome-pomodoro 0.23.1: A time management utility for GNOME based on the pomodoro technique!
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
