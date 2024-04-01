@@ -38,7 +38,7 @@ media-sound/lyrebird 1.2.0 9999: Simple and powerful voice changer for Linux
 media-sound/museeks 0.13.0 0.13.1: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js.
 media-sound/polyphone 2.3.1: A soundfont editor for quickly designing musical instruments.
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
-media-sound/tidal-hifi 5.7.0 5.7.1: Tidal on Electron with widevine(hifi) support
+media-sound/tidal-hifi 5.7.1 5.10.0: Tidal on Electron with widevine(hifi) support
 media-sound/ytmdesktop-bin 1.12.0 1.12.1 1.13.0 1.13.0-r1 1.14.2: A Desktop App for YouTube Music
 media-video/animated-wallpaper 9999: Animated wallpaper for Gnome and other desktops
 media-video/borderless-camera 0.0.5: Simple camera app without window borders, useful for the screencast recording.
@@ -65,7 +65,7 @@ x11-libs/bamf 0.5.5 9999: BAMF Application Matching Framework
 x11-misc/albert 9999: A fast and flexible keyboard launcher
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
 x11-misc/figma-linux 0.10.0 0.11.2: Unofficial desktop application for linux
-x11-misc/gitify 4.4.0 4.5.1: GitHub Notifications on your menu bar.
+x11-misc/gitify 4.5.1 5.1.0: GitHub Notifications on your menu bar.
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/hardcode-tray 9999: Fixes harcoded tray icons in Linux
 x11-misc/nyrna-bin 2.5.2 2.6.0 2.7.0 2.11.1-r1: Simple program to suspend games and applications
