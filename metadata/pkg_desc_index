@@ -1,4 +1,4 @@
-app-crypt/buttercup-desktop 2.20.3 2.24.4: A free, open-source and cross-platform password manager.
+app-crypt/buttercup-desktop 2.24.4 2.26.5: A free, open-source and cross-platform password manager.
 app-crypt/libproidplus-gui 2.4.2: ProID+, ProID+Q, ProID+NG gui middleware package.
 app-crypt/proidcm 1.0.1: ProID smart cards management utility
 app-crypt/swifty 0.6.6 0.6.10 0.6.13: Modern, Lightweight, Fast and Free Password Manager
@@ -27,7 +27,7 @@ gnome-extra/dialect 2.2.0 9999: A translation app for GNOME.
 gnome-extra/gnome-pomodoro 0.23.1: A time management utility for GNOME based on the pomodoro technique!
 gnome-extra/icon-library 0.0.12: Symbolic icons for your apps
 mail-client/gmail-desktop 2.25.2 2.25.3 2.25.3-r1: Unofficial Gmail Desktop App
-mail-client/mailspring 1.13.1 1.13.2: The best email app for people and teams at work
+mail-client/mailspring 1.13.2 1.13.3: The best email app for people and teams at work
 media-gfx/cura 5.3.1: 3D printer / slicing GUI built on top of the Uranium framework
 media-gfx/laigter 1.11.0 9999: Automatic normal map generator for sprites!
 media-gfx/pixeluvo 1.6.0: Easy to use image editor
