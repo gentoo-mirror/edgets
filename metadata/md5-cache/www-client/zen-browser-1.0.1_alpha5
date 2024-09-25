@@ -10,6 +10,6 @@ LICENSE=MPL-2.0
 REQUIRED_USE=^^ ( generic specific )
 RESTRICT=bindist mirror strip
 SLOT=0
-SRC_URI=generic? ( https://github.com/zen-browser/desktop/releases/download/1.0.1-a.1/zen.linux-generic.tar.bz2 -> zen-browser-1.0.1_alpha1-generic.tar.bz2 ) specific? ( https://github.com/zen-browser/desktop/releases/download/1.0.1-a.1/zen.linux-specific.tar.bz2 -> zen-browser-1.0.1_alpha1-specific.tar.bz2 )
+SRC_URI=generic? ( https://github.com/zen-browser/desktop/releases/download/1.0.1-a.5/zen.linux-generic.tar.bz2 -> zen-browser-1.0.1_alpha5-generic.tar.bz2 ) specific? ( https://github.com/zen-browser/desktop/releases/download/1.0.1-a.5/zen.linux-specific.tar.bz2 -> zen-browser-1.0.1_alpha5-specific.tar.bz2 )
 _eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6	xdg-utils	5465aed08f1dfc2a75f14cbea4272961	xdg	854eae304447322625df5991e20ed18f
 _md5_=873b68d71a1d4aa17b7bf20c55fc33ed
