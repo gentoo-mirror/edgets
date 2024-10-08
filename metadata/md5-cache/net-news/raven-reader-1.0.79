@@ -10,5 +10,5 @@ RDEPEND=sys-fs/fuse
 RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://github.com/hello-efficiency-inc/raven-reader/releases/download/v1.0.79/Raven-Reader-1.0.79.AppImage -> raven-reader-1.0.79.AppImage https://github.com/hello-efficiency-inc/raven-reader/blob/master/public/icon.png?raw=true -> raven-reader.png
-_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6	xdg-utils	5465aed08f1dfc2a75f14cbea4272961	xdg	854eae304447322625df5991e20ed18f
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=f4bda65aefc5532ee91faccaa586c4da
