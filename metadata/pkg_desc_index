@@ -63,7 +63,7 @@ x11-libs/bamf 0.5.5 9999: BAMF Application Matching Framework
 x11-misc/albert 9999: A fast and flexible keyboard launcher
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
 x11-misc/figma-linux 0.10.0 0.11.2: Unofficial desktop application for linux
-x11-misc/gitify 4.5.1 5.1.0: GitHub Notifications on your menu bar.
+x11-misc/gitify 5.1.0 5.16.2: GitHub Notifications on your menu bar.
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/hardcode-tray 9999: Fixes harcoded tray icons in Linux
 x11-misc/nyrna-bin 2.5.2 2.6.0 2.7.0 2.11.1-r1: Simple program to suspend games and applications
