@@ -73,6 +73,7 @@ x11-misc/sportstracker 7.8.0 7.9.0 7.9.1: Application for tracking your sporting
 x11-misc/temps-bin 0.7.4: A simple but smart weather app
 x11-misc/wordpress-com 8.0.0 8.0.3: WordPress.com Desktop Client
 x11-misc/xwinwrap 9999: Utility to replace a desktop background with a movie, screensaver, etc
+x11-terms/warp-terminal 2024.11.19: Warp, the Rust-based terminal for developers and teams
 x11-themes/breeze-hacked-cursor-theme 9999: Breeze cursor theme with hacked style
 x11-themes/flat-remix-gnome 20200617: Pretty simple Gnome shell theme inspired by material design
 x11-themes/lexis 0.1: Gnome Shell theme designed for Enigmo OS 2
