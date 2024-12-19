@@ -16,6 +16,7 @@ dev-python/d2to1 0.2.12_p1: Allows using distutils2-like setup.cfg files for a p
 dev-python/gTTS 2.5.0: gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API
 dev-python/googletrans 3.0.0 3.1.0_alpha0: Free and Unlimited Google translate API for Python.
 dev-python/python3-application 3.0.3: Basic building blocks for python applications
+dev-util/cambalache 0.90.2: RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy.
 dev-util/dart-sass 1.80.6 1.81.0: The reference implementation of Sass, written in Dart.
 dev-util/postman 10.24.16 11.0.4: API platform for building and using APIs
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
