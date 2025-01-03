@@ -12,8 +12,6 @@ mail-client/gmail-desktop:system-mesa - Use the system-wide media-libs/mesa inst
 mail-client/mailspring:doc - Install package documentation
 media-libs/sp-auth:doc - Install package documentation
 media-sound/kaku:doc - Install package documentation
-media-sound/museeks:doc - Install package documentation
-media-sound/museeks:system-mesa - Use the system-wide media-libs/mesa instead of bundled
 net-p2p/webtorrent-desktop-bin:xtest - Enable support for x11-libs/libXtst
 sci-geosciences/google-earth-bin:alsa - Enable alsa support through media-libs/alsa-lib
 www-client/min:alsa - Enable alsa support through media-libs/alsa-lib

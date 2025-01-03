@@ -36,7 +36,7 @@ media-libs/sp-auth 3.2.6: A p2p video streaming client
 media-sound/kaku 2.0.2 2.0.2-r1: The next generation music client
 media-sound/lmms 1.2.2: Cross-platform music production software
 media-sound/lyrebird 1.2.0 9999: Simple and powerful voice changer for Linux
-media-sound/museeks 0.13.0 0.13.1: A simple, clean and cross-platform music player, written with Node.js, Electron and React.js.
+media-sound/museeks 0.13.1 0.20.1: A simple, clean and cross-platform music player.
 media-sound/polyphone 2.3.1: A soundfont editor for quickly designing musical instruments.
 media-sound/soundnode-bin 7.0.1: Open-Source project to support Soundcloud for desktop
 media-sound/tidal-hifi 5.10.0 5.17.0: Tidal on Electron with widevine(hifi) support
