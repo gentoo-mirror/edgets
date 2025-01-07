@@ -20,7 +20,6 @@ dev-util/cambalache 0.90.2 0.94.1: RAD tool for Gtk 4 and 3 with a clear MVC des
 dev-util/dart-sass 1.80.6 1.81.0: The reference implementation of Sass, written in Dart.
 dev-util/postman 10.24.16 11.0.4: API platform for building and using APIs
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
-games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
 games-strategy/mindustry 6.0.126.2 7.0.143 7.0.144.3 7.0.146: A sandbox tower defense game
 games-util/oversteer 0.8.1 9999: Steering Wheel Manager for Linux
 gnome-extra/dialect 2.2.0 9999: A translation app for GNOME.
