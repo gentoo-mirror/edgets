@@ -1,6 +1,6 @@
 BDEPEND=>=dev-build/meson-1.2.3 app-alternatives/ninja dev-build/meson-format-array
 DEFINED_PHASES=compile configure install postinst postrm preinst test
-DEPEND=>=dev-libs/glib-2.80.0[introspection] dev-python/lxml >=dev-python/pygobject-3.48.0 >=gui-libs/gtk-4.16.0[introspection] >=gui-libs/gtksourceview-5[introspection] >=gui-libs/libadwaita-1.6.0[introspection] >=x11-libs/gtk+-2.24.0[introspection]
+DEPEND=>=dev-libs/glib-2.80.0[introspection] dev-python/lxml >=dev-python/pygobject-3.48.0 >=gui-libs/casilda-0.1 >=gui-libs/gtk-4.16.0[introspection] >=gui-libs/gtksourceview-5[introspection] >=gui-libs/libadwaita-1.6.0[introspection] >=x11-libs/gtk+-2.24.0[introspection]
 DESCRIPTION=RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy.
 EAPI=8
 HOMEPAGE=https://gitlab.gnome.org/jpu/cambalache
@@ -12,4 +12,4 @@ RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://gitlab.gnome.org/jpu/cambalache/-/archive/0.94.1/cambalache-0.94.1.tar.gz
 _eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	gnome2-utils	a8cf148ec7f5ae0b1f1d33ae5f7f9e88	flag-o-matic	357f1a896fbedcd06e5ce55419c49eb9	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	meson	99466844dd8d4fcfb07578a76f5a9922	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=2c5d747dc9fb33df52995e89a587237d
+_md5_=ee8e911d4cea0c0462c2e1764a766c56
