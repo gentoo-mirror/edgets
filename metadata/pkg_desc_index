@@ -30,7 +30,7 @@ gui-libs/casilda 0.2.0: A simple Wayland compositor widget for Gtk 4 which can b
 gui-libs/gtk 4.17.1: GTK is a multi-platform toolkit for creating graphical user interfaces
 mail-client/gmail-desktop 2.25.2 2.25.3 2.25.3-r1: Unofficial Gmail Desktop App
 mail-client/mailspring 1.13.2 1.13.3: The best email app for people and teams at work
-media-gfx/cura 5.3.1: 3D printer / slicing GUI built on top of the Uranium framework
+media-gfx/cura 5.3.1 5.9.0: 3D printer / slicing GUI built on top of the Uranium framework
 media-gfx/laigter 1.11.0 9999: Automatic normal map generator for sprites!
 media-gfx/pixeluvo 1.6.0: Easy to use image editor
 media-libs/sp-auth 3.2.6: A p2p video streaming client
@@ -65,7 +65,7 @@ x11-libs/bamf 0.5.5 9999: BAMF Application Matching Framework
 x11-misc/albert 9999: A fast and flexible keyboard launcher
 x11-misc/coffee 2.2.0: A news and weather feed for Linux
 x11-misc/figma-linux 0.10.0 0.11.2: Unofficial desktop application for linux
-x11-misc/gitify 5.1.0 5.16.2: GitHub Notifications on your menu bar.
+x11-misc/gitify 5.16.2 6.0.0: GitHub Notifications on your menu bar.
 x11-misc/gsubs-bin 1.0.3: A desktop app that finds you the perfect subtitle match for your videos
 x11-misc/hardcode-tray 9999: Fixes harcoded tray icons in Linux
 x11-misc/nyrna-bin 2.5.2 2.6.0 2.7.0 2.11.1-r1: Simple program to suspend games and applications
