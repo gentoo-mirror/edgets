@@ -59,7 +59,7 @@ sci-geosciences/google-earth-bin 7.3.6: Explore, search and discover the planet
 www-client/min 1.33.0 1.34.0: Min is a fast, minimal browser that protects your privacy.
 www-client/phantomjs-bin 2.1.1: A headless WebKit scriptable with a JavaScript API
 www-client/vimb 3.6.0: A fast, lightweight, vim-like browser based on webkit
-www-client/zen-browser 1.0.2_beta5 1.7.4_beta 1.7.5_beta: Experience tranquillity while browsing the web without people tracking you!
+www-client/zen-browser 1.0.2_beta5 1.7.5_beta 1.7.6_beta: Experience tranquillity while browsing the web without people tracking you!
 x11-apps/jstest-gtk 9999: Joystick testing and configuration tool
 x11-libs/bamf 0.5.5 9999: BAMF Application Matching Framework
 x11-misc/albert 9999: A fast and flexible keyboard launcher
