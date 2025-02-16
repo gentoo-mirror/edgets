@@ -10,5 +10,5 @@ RDEPEND=dev-libs/nss media-libs/gst-plugins-base media-libs/gst-plugins-good med
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=http://webly3d.net/static/edgets-overlay/net-im/viber-bin/viber-bin-16.1.0.37.deb -> viber-bin-16.1.0.37.deb
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	fb4b84181244b3b9990fa0bf40232dd2	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	fb4b84181244b3b9990fa0bf40232dd2	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=da984be1484889bb1184628223a5fe1d

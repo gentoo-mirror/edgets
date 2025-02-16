@@ -10,5 +10,5 @@ RDEPEND=media-libs/freetype sys-libs/glibc sys-libs/zlib x11-misc/xdg-utils
 RESTRICT=bindist mirror
 SLOT=0
 SRC_URI=https://github.com/ssaring/sportstracker/releases/download/SportsTracker-7.8.0/sportstracker_7.8.0-1_amd64.deb -> sportstracker-7.8.0.deb
-_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	fb4b84181244b3b9990fa0bf40232dd2	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	unpacker	fb4b84181244b3b9990fa0bf40232dd2	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
 _md5_=f4a440f7bae292ac56ac6edbf53a0690
