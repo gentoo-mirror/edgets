@@ -10,4 +10,4 @@ RESTRICT=bindist mirror strip
 SLOT=0
 SRC_URI=https://github.com/zen-browser/desktop/releases/download/1.9b/zen.linux-x86_64.tar.xz -> zen-browser-bin-1.9_beta.tar.xz
 _eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=6b84fe107d99c9bfaeaafc2732448794
+_md5_=be3e7b4af2c23989e966b8a300e4fb7a
