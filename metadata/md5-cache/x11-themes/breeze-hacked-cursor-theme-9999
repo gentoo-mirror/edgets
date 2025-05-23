@@ -10,4 +10,4 @@ PROPERTIES=live
 RDEPEND=media-gfx/inkscape x11-apps/xcursorgen
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=708d3a708bf8daf9aa944f361ebdf994
+_md5_=0ea623ac3c2b985e25a41de33dc792bd
