@@ -1,13 +1,14 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
-DEFINED_PHASES=compile install postinst postrm preinst prepare unpack
-DEPEND=media-gfx/inkscape x11-apps/xcursorgen dev-util/desktop-file-utils x11-misc/shared-mime-info
+DEFINED_PHASES=compile install postinst postrm preinst unpack
+DEPEND=media-gfx/inkscape x11-apps/xcursorgen
 DESCRIPTION=Breeze cursor theme with hacked style
-EAPI=7
+EAPI=8
 HOMEPAGE=https://github.com/codejamninja/breeze-hacked-cursor-theme
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
 INHERIT=git-r3 xdg
 LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=media-gfx/inkscape x11-apps/xcursorgen
 SLOT=0
 _eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575
-_md5_=0ea623ac3c2b985e25a41de33dc792bd
+_md5_=a04ac83cd1341d139eccce1af064663e
