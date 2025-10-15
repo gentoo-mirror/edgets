@@ -12,7 +12,7 @@ dev-libs/dht 0.26: BitTorrent DHT library
 dev-libs/libdecor 0.1.1 9999: A client-side decorations library for Wayland client
 dev-libs/libfccp 2021.11.03 9999: Small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
 dev-util/cambalache 0.90.2-r2 0.94.1-r3: RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy.
-dev-util/dart-sass 1.80.6 1.81.0: The reference implementation of Sass, written in Dart.
+dev-util/dart-sass 1.80.6 1.81.0 1.93.2: The reference implementation of Sass, written in Dart.
 dev-util/postman 10.24.16 11.0.4 11.29.5: API platform for building and using APIs
 dev-util/rider 2020.2.4: Cross-platform .NET IDE based on the IntelliJ platform and ReSharper
 games-action/ftb-launcher 1.5.1: Feed The Beast Minecraft launcher for community-made modpacks
