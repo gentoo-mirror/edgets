@@ -79,5 +79,6 @@ x11-themes/materia-theme 99999999: A Material Design-like flat theme for GTK3, G
 x11-themes/numix-icon-theme 9999: Icon theme from the Numix project.
 x11-themes/numix-icon-theme-bevel 1.0: The archived and no longer maintained version of Numix Circle
 x11-themes/orchis-theme 2023.05.27 2023.10.20 9999: Material Design theme for GNOME/GTK based desktop environments
+x11-themes/sddm-astronaut-theme 25.08.30: Series of modern looking themes for SDDM.
 x11-themes/suru-plus 30.0: A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 x11-themes/whitesur-theme 2023.04.26 2023.10.13 9999: A macOS BigSur-like theme for your GTK apps

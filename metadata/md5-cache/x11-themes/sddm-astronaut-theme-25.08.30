@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DEPEND=dev-qt/qtmultimedia dev-qt/qtsvg dev-qt/qtvirtualkeyboard x11-misc/sddm
+DESCRIPTION=Series of modern looking themes for SDDM.
+EAPI=8
+HOMEPAGE=https://github.com/Keyitdev/sddm-astronaut-theme
+KEYWORDS=*
+RDEPEND=dev-qt/qtmultimedia dev-qt/qtsvg dev-qt/qtvirtualkeyboard x11-misc/sddm
+RESTRICT=bindist mirror
+SLOT=0
+SRC_URI=https://github.com/Keyitdev/sddm-astronaut-theme/archive/c10bd950544036c7418e0f34cbf1b597dae2b72f.zip
+_md5_=8632aaa11c3148dd972516102a3c0dfd
